@@ -1,0 +1,128 @@
+Youtube video: Sky Scholar: The Herouni Antenna - The Death of the Big Bang!
+Url: https://www.youtube.com/watch?v=p8lKQMEYYLw&list=PLnU8XK0C8oTDaiwe8Us_YNl4Kjmt8ceR
+Script:
+
+[The host is talking]
+Hello everyone and welcome to Sky Scholar.
+
+[Image of the Horn Antenna in New Jersey]
+Today I wish to discuss professor Paris Herouni's great antenna in Armenia.
+This might well be the most important video that I ever release on this channel, because professor Herouni's antenna proves to the world, that there was no Big Bang.
+Many of you know, that the central proof of the Big Bang is the microwave background.
+The earth is surrounded by microwave radiation, with an apparent temperature of three Kelvin.
+This was first reported by Penzias and Wilson in 1965.
+The paper is readily available online for anyone to read and a link is provided below.
+Here is a picture of their antenna, which is positioned with the aperture facing down as it is no longer in use.
+At 4 gigahertz, Penzias and Wilson reported a total temperature of 6.7 Kelvin.
+They assigned to 2.3+-0.3 Kelvin to the atmosphere and 0.8+-0.4 Kelvin to the ohmic loss of the antenna.
+They estimated, that the backload response to the ground would only contribute about 0.1 Kelvin to the total.
+An unaccounted temperature of 3.5+-1 Kelvin was finally reported.
+Importantly, nowhere in the paper is the diffraction of signal into the horn of the antenna discussed.
+The antenna is sitting at an elevation of only a 147 feet, just a few miles from the Atlantic Ocean at the Crawford hill laboratory in Holmdel New Jersey, just adjacent to Union beach.
+Importantly, Penzias and Wilson do not assign their excess noise to the universe.
+
+[Image of the scientific papers]
+	[R.H Dicke, P.J.E Peebles, P.J. Roll, D.T. Wilkinson. Cosmic Black-Body Radiation. 1965]
+	[A. Penzias, R. Wilson. A Measurement Of Excess Antenna Temperature At 4080 Mc/s. Astrophys Letters 1965]
+That was done in this paper, which actually preceded their own.
+So you have to ask, since when in science is the interpretation of a result given before the result is actually published.
+Furthermore, in order to assign an actual temperature according to the laws of thermal emission, it must be in thermal equilibrium with an open and closure.
+That was never the case for the big bang signal.
+So in claiming that the temperature was real and not simply apparent, all these people were not observing the laws of thermodynamics.
+They also neglected, that water could be the source of their signal as I have made plain in many papers including this one.
+
+[The host is talking]
+The astronomers claimed that they have verified the Penzias and Wilson discovery using the COBE satellite, additional ground-based antennas, rockets and balloons.
+Yet in every case those instruments were subject to diffracted signal from the ocean and I have made this clear in my discussion on the COBE satellite.
+
+[Image of Sun, Earth, L2 point]
+They also tell us that they have observed the background with the WMAP and Planck satellites located at l2 at a distance of about 1.5 million kilometers from the earth.
+Yet WMAP was a differential instrument.
+It was never able to measure the Penzias and Wilson monopole.
+It never reported a 3 Kelvin signal because it couldn't.
+
+[Image of Sun, Earth, L2 point, and image captured by WMAP satellite]
+It's maps have nothing to do with cosmology, as I have made evident in this paper.
+As for the Planck satellite it should have been able to measure the monopole, but never reported such a finding.
+In fact it uses data from the Coby Ferris horn in its analysis for the monopole value, that clearly communicates that the Planck satellite could never measure the monopole on its own.
+I have previously examined the 4k reference loads on the Planck satellite.
+That analysis reveals that this instrument had fundamental flaws in design even before launch.
+As a result it is apparent that the Penzias and Wilson signal has never been confirmed at a physical distance away from the Earth.
+
+[The host is talking]
+Now we finally come to professor Paris Herouni's antenna.
+I first learnt of this antenna just a few weeks ago.
+erouni's antenna is located far from the oceans on mount Aragon's in Armenia at an elevation of 1700 meters or about one mile.
+It is the world's first and only optical radio telescope.
+
+[Image of Paris Herouni's antenna dish]
+It has a 2.6 meter diameter optical telescope which is co actually aligned with a 54 meter hemispheric radio telescope.
+
+[Image of Paris Herouni's antenna dish at winter]
+Much of the disc is below ground level as you can see here
+
+[Image of inside the Paris Herouni's antenna dish looking at the detector]
+The detector is located in a second bell-like dish suspended on an arm which is able to rotate.
+
+[Image of Paris Herouni's antenna dish and the detector with illustration, that a signal parallel to the ground can't enter the antenna dish]
+Because of its design, it would be difficult for signal traveling parallel to the ground to diffract and enter the detector of this instrument.
+During its very first days of operation the antenna detected an important radio flare on the AIDA Gemini star as you can learn here.
+
+[Image of Paris Herouni's antenna dish and detector from above]
+The designer of this great antenna was Professor Herouni.
+He was a key figure in Soviet radio engineering and was highly decorated by this nation as a scientist as you can learn in the links below.
+
+[The host is talking]
+The antenna itself was utilized to make measurements from about 1985 through 1989.
+This was a period of time associated with the breakup of the Soviet Union of which Armenia was a satellite state.
+During this period the experimental and theoretical work on this antenna was limited to defining the antenna parameters and a very small amount of work on radio astronomy.
+The scientists involved had very little funding and they continued to work as best they could after 1989 based largely on their dedication and the enthusiasm that they had for this instrument.
+They reported a few papers as seen here and listed below.
+
+[Links to scientific articles]
+Since 2012 the antenna has been decommissioned due to lack of financial support.
+
+[Image of Paris Herouni's antenna dish and detector from far away]
+However soon after the antenna was enabled, professor Herouni discovered that the self-noise of his antenna was only 2.6 Kelvin at eight millimeter wavelength.
+He immediately recognized that this left no room for the signal from the sky.
+There was no Big Bang.
+You can learn more about Herouni's measurement in this paper which is also linked below.
+Herouni should have had a total signal of about 6 Kelvin with some signal coming from the cosmos, but the signal was just not there, so he sent his data to 10 of the world's top laboratories and asked to highlight potential. Errors in his measurements.
+None of them replied.
+Of course, that was no error.
+Herouni was an expert in radio engineering.
+He knew how to measure antenna noise.
+Professor Herouni paused for a period of 10 years before publishing his data waiting for any answer.
+
+[Information about a scientific article]
+His first publication was in a greek journal as you can see here yet that paper could no longer be found in the journal archive.
+
+[The host talk]
+Still the editor-in-chief of the journal professor Nicolas Uzunoglu had initially invited professor Herouni to send his findings to him.
+We were able to finally find a hard copy of the paper in a library in Armenia.
+Otherwise the paper would have disappeared from the face of the earth.
+People are now working to try to restore that file.
+I was able to receive a copy of the paper from his niece, professor Arevik Sargsyan, who is also a radio engineer.
+Arevik is now trying to restore and save this important antenna.
+
+[Image of Paris Herouni's antenna dish and detector.
+A YouTube clip can be found below, where you can see the deteriorating state of the adjacent buildings, but the heart of the antenna the great dish is still essentially intact.
+The antenna can be brought back to life simply with new electronics.
+
+[The host talk with Arevik's contact information]
+Here are Arevik's contact information on the chance that someone with the means to do so will join others and assist in accomplishing this goal.
+Someday, it will become clear that this was the antenna that killed the Big Bang.
+This instrument represents a scientific treasure for Humanity and for the people of Armenia.
+It is my hope that the public becomes involved to bring to light the critical results of professor Herouni's antenna and to help usher in a new dawn in astrophysics.
+At the same time it is clear that the Big Bang could never have produced the 3 Kelvin radiation, which is surrounding the earth.
+
+
+[The host talk with a text "It takes a physical lattice to produce a thermal spectrum!"]
+I have long argued that Kirchhoff's law is invalid and as a result it takes a physical lattice to produce a thermal spectrum.
+No physical lattice existed in the Big Bang and that is why that signal was never produced by a primordial explosion.
+If you enjoyed the video today promote the channel.
+Mention the video to your local astronomy club.
+Support me with a like and subscribe for more videos as we look more closely at the Sun the Stars and beyond.
+Comments are always welcome down below and I'll see you soon on our next video.
+
+[Image of the Earth]

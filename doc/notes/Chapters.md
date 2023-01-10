@@ -1,4 +1,4 @@
-## Chapter "System panic""
+## Chapter "System panic"
 
 ### Sky Scholar: The Herouni Antenna - The Death of the Big Bang!
 [Video](https://www.youtube.com/watch?v=p8lKQMEYYLw&list=PLnU8XK0C8oTDaiwe8Us_YNl4Kjmt8ceRD)
@@ -392,6 +392,14 @@ Book: David Reich - Who We Are and How We Got Here
 #### Evidence from presidential library
 
 #### Speculation about humanoid races
+
+
+### Contacting them
+
+#### Contacting with meditation
+[Video](https://www.youtube.com/watch?v=GFa0jxNDHTM)
+
+#### Do you know when you're right or wrong?
 
 
 ### Goverment is interested
