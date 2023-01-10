@@ -1,16 +1,12 @@
 ## Chapter "System panic"
 
-### Sky Scholar: The Herouni Antenna - The Death of the Big Bang!
+### The Antenna That Killed the Big Bang: Uncovering the Work of Professor Paris Herouni
 [Video](https://www.youtube.com/watch?v=p8lKQMEYYLw&list=PLnU8XK0C8oTDaiwe8Us_YNl4Kjmt8ceRD)
+Professor Paris Herouni's antenna in Armenia has proved to the world, that there was no Big Bang. His antenna detected no signal from the sky, showing that the 3 Kelvin temperature was not real. Support is needed to restore and save this antenna, to usher in a new dawn in astrophysics.
 
-- The scientific argument against the mainstream is strong and worth discussing.
-- Objections are rather inferior mockery and "appeal to authority"
-- The Big Bang appears to be religious creationism disguised as science.
-
-### Sky Scholar: The "Cosmic" Microwave Background - Bad Science!
+### The Cosmic Microwave Background - A Closer Look
 [Video](https://www.youtube.com/watch?v=O13ApQvUfb8&list=PLnU8XK0C8oTDaiwe8Us_YNl4Kjmt8ceRD&index=2)
-
-- Polite and sharp criticism of mainstream science.
+This video series challenges the claim that the Cosmic Microwave Background provides direct proof of the Big Bang. It examines how bad science has been used to support a religious concept, and speaks about the measurements of the monopole, the anisotropy maps, water and Kirchoff’s law, and the results of the WMAP, COBE and Planck satellites. It encourages viewers to watch previous videos and support the channel.
 
 ### Donald E. Scott: Dark Matter Debunked | Thunderbolts
 [Video](https://www.youtube.com/watch?v=BWW_mtihc1Q)
@@ -413,6 +409,12 @@ Book: David Reich - Who We Are and How We Got Here
 
 ### Goverment lies
 #### History of 60s, 70s, 80s until FOIA
+
+### Government transparency
+#### Clinton's presidential archive
+- contains a lot, but who put it there and why, and are they really "verified" now?
+- they are not there to be insulting certainly
+
 
 ### Where we are now?
 
