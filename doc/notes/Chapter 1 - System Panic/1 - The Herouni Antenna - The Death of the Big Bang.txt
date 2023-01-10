@@ -1,4 +1,6 @@
-Youtube video: Sky Scholar: The Herouni Antenna - The Death of the Big Bang!
+Title: The Herouni Antenna - The Death of the Big Bang!
+Channel: Sky Scholar
+Format: video lecture
 Url: https://www.youtube.com/watch?v=p8lKQMEYYLw&list=PLnU8XK0C8oTDaiwe8Us_YNl4Kjmt8ceR
 Script:
 
