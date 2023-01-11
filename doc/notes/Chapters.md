@@ -8,7 +8,7 @@ Professor Paris Herouni's antenna in Armenia has proved to the world, that there
 [Video](https://www.youtube.com/watch?v=O13ApQvUfb8&list=PLnU8XK0C8oTDaiwe8Us_YNl4Kjmt8ceRD&index=2)
 This video series challenges the claim that the Cosmic Microwave Background provides direct proof of the Big Bang. It examines how bad science has been used to support a religious concept, and speaks about the measurements of the monopole, the anisotropy maps, water and Kirchoff’s law, and the results of the WMAP, COBE and Planck satellites. It encourages viewers to watch previous videos and support the channel.
 
-### Donald E. Scott: Dark Matter Debunked | Thunderbolts
+### Debunking Dark Matter: The Evidence for Birkeland Currents
 [Video](https://www.youtube.com/watch?v=BWW_mtihc1Q)
 Birkeland Currents offer an alternative explanation to the failed attempts of astronomers to explain the rotational velocity of stars in galaxies through Newtonian physics. Additionally, the model provides evidence for the existence of an intergalactic web of plasma filaments connecting galaxies across vast distances. The process of Marklund Convection, which is a process that sorts atoms according to their ionization potential, is also seen in stars, including our Sun. All of this evidence suggests that the electrical interactions are responsible for all the rotation, debunking the concept and necessity of dark matter.
 
