@@ -1,0 +1,111 @@
+Url: https://www.universeofparticles.com/the-bouncing-electron/
+Format: e-book
+Text (multiline):
+
+The Bouncing Electron
+
+Assuming that things are perfectly elastic at the subatomic level, an electron incapable of escaping the electric field of a proton will not come to rest at its surface. It will bounce. With no energy added to the electron, it will be stuck in limbo. It will neither combine with the proton to form a neutron nor escape into space.
+
+The electron clouds that surround atomic nuclei are manifestations of this. Every cloud corresponds to a bouncing electron.
+
+[Image "Atomic nucleus with net charge of 10, surrounded by 10 bouncing electrons = Neon"]
+
+For atoms with more than two protons in their nuclei, there isn’t enough room for all of the electrons to bounce directly off the nucleus. Only two electrons can do this. Additional electrons bounce off of the electric field of the electrons closer to the nucleus. These electrons are attracted by the nucleus, but repelled by their fellow electrons.
+
+The inner electrons are not free to bounce at any random frequency. They have to bounce at a frequency that resonates with the nucleus. Only specific harmonics are allowed.
+
+The electrons farther out are in turn bound by the frequencies of the electrons closer to the nucleus. All the electrons are therefore bound directly or indirectly to the resonant frequencies allowed by the nucleus.
+
+This is why electron clouds come in a limited number of allowed energy states.
+
+
+
+
+Chemistry
+
+Chemical bonds are fairly easy to understand in terms of electron clouds.
+
+We know that electron clouds around atomic nuclei come in layers, in which the innermost layer can have a maximum of 2 clouds, the next one out a maximum of 8, and farther out still another 8, etc.
+
+The way this works when modelled with bouncing electrons is that electrons sometimes find ways to bounce off more than one atomic nucleus at a time.
+
+In the case of hydrogen molecules, we have two protons held together by two electron clouds.
+
+Since every hydrogen atom has 2 available slots in its inner layer, yet only 1 electron cloud, the most efficient configuration of two hydrogen atoms is to have them share their respective electron clouds to make the most of the available space. The electrons bounce alternately off one and the other proton.
+
+The 2 slots available for electrons to bounce are thus filled. Instead of each proton having only one electron bouncing off of them, both of them get two slots filled through mutual sharing of their single electrons.
+
+This yields a more efficient configuration, and energy is released in the process.
+
+Hydrogen molecules can in turn be combined with other atoms to make larger molecules. Two hydrogen molecules can combine with a carbon atom to create methane. This too releases energy.
+
+[Image "Two hydrogen molecules and a carbon atom combine to form methane"]
+
+Carbon has 4 empty slots in its second layer. When these slots get filled with electron clouds associated with the hydrogen molecules, a configuration can be made in which all 8 outer slots of the carbon atom are filled in such a way that every hydrogen atom has its 2 slots occupied.
+
+Note that efficiency is related to size. Two independent hydrogen atoms occupy more space than a single hydrogen molecule. Two hydrogen molecules and a carbon atom occupy more space than a single methane molecule.
+
+The process of going from big and bloated to small and compact releases energy. The more compact a configuration, the less energy is left in it for further reactions.
+
+
+
+
+Photons as Carriers of Energy
+
+For a bouncing electron to go up one harmonic, it has to absorb a specific quantum of energy. To go down one harmonic, it has to release an energy quantum.
+
+These energy quanta come in the form of photons.
+
+In conventional physics, the photon absorbed or released is nothing more than a quantum of pure energy. It can therefore be created and destroyed whenever needed.
+
+However, if photons are made of dielectric matter that can neither be created nor destroyed, the sudden appearance and disappearance of photons must be explained in some other way. There has to be a pool of photons available for the energy transfer.
+
+Low energy photons must be everywhere present so that they can be kicked up in energy. However, they mustn’t be so abundant that the energy transfer always happen immediately after an electron has been excited into a higher energy level.
+
+The low energy photons have to be at a certain abundance corresponding to the typical time it takes for an excited electron to stay excited before returning to its lower energy level.
+
+The process of excitement into a higher energy level, followed by the subsequent drop to a lower energy level will have to go as follows:
+
+    A high energy particle hits a bouncing electron.
+    A quantum of energy is transferred from the particle to the electron.
+    The electron bounces at a higher harmonic.
+    A random low energy photon hits the excited electron.
+    A quantum of energy is transferred from the electron to the photon.
+    The electron bounces at a lower harmonic.
+
+The time delay between step 2 and step 5 is determined by the availability of low energy photons.
+
+[Image "Electron of Neon being excited by an incoming high energy photon: step 1, 2 and 3"]
+
+[Image "Exited electron of Neon kicking a random low energy photon up in energy: step 4, 5 and 6"]
+
+For this to work, there must be a lot more photons around than is observed. They would have to be everywhere, and the vast majority of them would have to be in an undetectable state.
+
+In short, we require an aether.
+
+
+
+
+An Aether of Zero-Point Particles
+
+There are many theories that invoke the aether in order to explain physical phenomena, and each theory has its own definition of what the aether is. Some theories require an aether in order to communicate energy in the form of waves. Other theories require it for other purposes.
+
+The aether required for the theory lied out in this book is one in which there is an abundance of readily available low energy photons. I call these particles zero-point photons to make the point that they have so little energy that they are undetectable. They may not be completely without energy. However, for practical purposes, they can be considered to have zero energy.
+
+Zero-point photons fly about at the speed of light, just like any other photon.
+
+Since space is known to be full of neutrinos, also flying about at the speed of light. The aether must be a mix of photons and neutrinos.
+
+When it comes to neutrinos, the same logic applies as to photons. The vast majority of them are undetectable. We have zero-point neutrinos as well as zero-point photons. Collectively, we can refer to these as zero-point particles.
+
+[Image "Electron surrounded by zero-point particles"]
+
+These particles interfere with their detectable counterparts as well as ordinary matter.
+
+Zero-point particles are very small. They have no trouble tunnelling through materials. They are therefore everywhere.
+
+They are not directly detectable, but their effects are well known to us. In their bouncing about, zero-point particles form high and low pressure regions generally referred to as the electric, magnetic, and gravitational fields.
+
+These high and low pressures are similar to high and low pressure regions in weather systems, and can in many ways be thought of as such. However, they are not pressures in any conventional sense. They don’t carry any weight or energy.
+
+With low energy neutrinos and zero-point photons being of different numbers and qualities, they form a resilient standing wave. The aether is constantly vibrating at a high frequency.

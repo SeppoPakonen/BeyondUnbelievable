@@ -1,0 +1,97 @@
+Title: Stuart Talbott： Stars Are Born In Z-pinch
+Channel: ThunderboltsProject
+Format: video lecture
+Url: https://www.youtube.com/watch?v=qUk3MuDEyv0
+Script (multiline):
+Our planet's Moon may be the most intriguing and mysterious object in the solar system.
+Since the dawn of the space age and continuing to present day, countless discoveries have forced dramatic ad-hoc adjustments to the story of the Moon's history and origins.
+A new scientific paper published in the journal Nature adds to the list of puzzles.
+A team of scientists recently analyzed a type of so-called asteroid known as an Apollo which are rocks which come close to sharing Earth's orbit around the Sun.
+This particular Apollo, called Kamo’oalewa is also called a quasi-satellite because it stays close to our planet over long stretches of time and many orbits.
+Using one of the most powerful telescopes on Earth at mount Graham International Observatory, the team determined that Kamo’oalewa's spectrum is remarkably similar to that of rocks from the Moon.
+This discovery distinguishes the object from any known asteroid.
+Not surprisingly, the researchers favor the hypothesis that the object broke off from the Moon as the result of a kinetic impact.
+However, as with all scientific investigations into the Moon, the solar system, and in fact the entire cosmos, countless assumptions govern and profoundly limit theoretical interpretations.
+For well over half a century, most astronomers have accepted that the Moon's heavily cratered surface is a result of periodic impacts over countless eons of time.
+It is also believed that the Moon formed when Earth collided with another planet billions of years ago.
+And yet, as scientific data improves with technological leaps, we see an endless collision between popular scientific theory and science discovery.
+As you will see in this presentation, a scientific foundation exists for a radical reassessment of almost everything astronomers believe about the Moon's origins and history.
+If such a reassessment does occur at the level of institutionalized science, unusual objects such as Kamo’oalewa might finally be able to be seen in an entirely new light.
+This presentation will discuss the concepts of an alternative cosmological theory known as the Electric Universe.
+Generally speaking, this theory proposes that electromagnetism and plasma play predominant roles in the formation of celestial objects at all scales.
+This theory also proposes a radically different recent history for our solar system.
+From this perspective, the craters we see on objects such as our moon, were not produced by periodic impacts, but rather resulted from interplanetary electrical discharge in a relatively recent epoch of planetary instability.
+For any newcomer to this theory, our moon provides an ideal predictive testing ground, and as you will see, a powerful evidential basis exists to warrant sober investigation from institutionalized science.
+Let us first consider the long-standing ancient impact theory of the Moon's origins.
+What does science discovery now tell us about this popular notion? In 2020, the research published in a major scientific paper severely undermines that hypothesis.
+Over a decade ago a Japanese Aerospace Exploration Agency spacecraft spent a year and a half orbiting the Moon and collecting data.
+The spacecraft was equipped with an Ion Mass Spectrometer and it detected something unexpected - an abundance of carbon ions which were distributed over almost the entire Moon's surface.
+The concentrations of the carbon ions were so high they could not be accounted for by deposition of carbon by the solar wind.
+Dating back to the Apollo era, astronomers had believed that the Moon had very little carbon ions since they did not turn up in earlier mapping.
+The problem is, the standard theory of the Moon's origins has always required a lack of volatiles such as carbon.
+This problem for the theory is outlined in a 2020 Sciencealert report which states, “The reason that's a problem for the lunar impact formation model - in which a large body we call Theia collided with Earth sometime in the early years of the Solar System, breaking off a chunk and sending it into Earth orbit - is because volatiles have a low boiling point.” ”But the Theia collision would have generated pretty intense temperatures between 4,000 and 6,000 Kelvin - which should have partially vaporized the debris, and boiled away the volatiles, producing what is known as a volatile- depleted ‘dry’ Moon.” However, on the Moon and with every rocky body ever observed, a geological history, primarily built around periodic collisions and explosions, has failed to predict discovery and has encountered tremendous conundrums.
+Indeed, the question of how the Moon got its craters, was one of the many debates in space science which were quote ”settled prematurely.” As we entered the space age, the debate among geologists and astronomers only considered two hypotheses - impacts and volcanism.
+After Apollo astronauts returned lunar samples to Earth, analysis revealed a tremendous portion of the material was composed of shocked and welded minerals.
+Thus, the impact origin of lunar craters became the consensus scientific theory, and remains so today.
+And yet, like so much “settled science”, discovery has reliably introduced new dilemmas in the form of surprises.
+In 2019, a scientific study threw into disarray conventional beliefs about the largest and oldest so-called “impact crater” on the Moon.
+The lunar South Pole -Aitken basin is roughly 2,500 kilometers in diameter and 13 kilometers deep which makes it one of the largest so-called “impact craters” in the entire solar system.
+Scientists had theorized that the basin contained minerals from the Moon's mantle since the tremendous kinetic energy from the hypothetical impact would have pierced the lunar crust and brought the materials to the surface.
+However, a team of scientists studying data from the Chinese spacecraft Chang’ E-4's Rover, have found that in reality the predominant mineral they have found is common in the lunar soil, and thus have not found the expected minerals at such a tremendous quote “impact site.” The co-author of a scientific study published in the Geophysical Research Letters says of the findings, “We are not seeing the mantle materials at the landing site as expected.” A Phys.org report on the discovery states, “The new study complicates theories about how the oldest, largest crater on the Moon formed...
+The new study complicates the certainty of earlier findings and points towards a need for continued research on the far side's lunar surface...” But of course scientific theories inevitably become complicated when only one theory is ever considered.
+The Electric Universe has always proposed that our Moon was not born by impact billions of years ago; nor are periodic impacts over countless eons the source of its craters.
+The chief proponent of the Electric Universe, Australian physicist Wal Thornhill has postulated that the Moon was born relatively recently by electrical discharge.
+The Moon's surface is the product of electrical scarring - a hypothesis never included in any debate on lunar geology.
+However, nothing found in the many decades of lunar investigation is incompatible with the hypothesis.
+Indeed, years before the first man walked on the Moon, in 1965 the amateur astronomer Brian J.
+Ford published his laboratory experiments, suggesting that craters on the Moon were carved by cosmic lightning bolts.
+In the cited experiments, Ford used a spark machining apparatus to reproduce and miniature of some of the most puzzling lunar features, including craters with central peaks; small craters preferentially perched on the high rims of larger craters; and craters strung out in long chains.
+He also observed that the ratio of large- to-small craters on the Moon matched the ratio seen in electrical arcing.
+And as with craters seen elsewhere in the solar system, Ford remarked on the mystery of their typical extreme circularity.
+He noted that over 90 percent of lunar craters could not have been produced by side-swiping impacts.
+So, planetary scientists concluded that the kinetic energy of an impactor must simply be converted into powerful surface explosions.
+And yet highly circular craters are routinely produced in the industrial process of electrical discharge machining.
+Many years before Ford's published experiments and long before the Apollo missions to the Moon Dr.
+Immanuel Velikovsky had made the outrageous prediction that remanent magnetism would be found in the lunar rocks.
+Astronomers had completely rejected the idea, since the Moon today has only a very weak magnetic field, and is believed to have been geologically dead for a billion years.
+But Velikovsky based his prediction on his hypothesis of recent planetary catastrophe, when the Moon was scarred by interplanetary lightning between celestial bodies.
+Like several other outrageous predictions by Velikovsky, it was proven correct.
+Velikovsky's colleague, the engineer Ralph Juergens, also provided a remarkable analysis which should have been included in the scientific debate on the Moon's history and geological features.
+As you will now see, a review of Juergens’ extraordinary contribution is essential in any discussion of lunar geology.
+One of the most puzzling features on the Moon is the sinuous rille which is a long winding valley, usually with steep walls and often emerging from a crater.
+This feature is pervasive on the Moon at dramatically different scales.
+Prior to the Apollo missions, astronomers’ early hypotheses suggested that the rilles were quote “cracks” on the Moon's surface.
+Later guesses included flowing water, until scientists settled on flowing lava as the agent.
+Today, the accepted theory is that the Moon's sinuous rilles were created, either by lava flowing across a surface, or beneath the ground to form a lava tube, portions of which eventually collapsed.
+Juergens compared the respective point-by-point requirements of various competing theories versus the actual observed characteristics of the rilles.
+Unlike planetary scientists, Juergens included among the possible agents high energy electrical discharge.
+On every evidentiary point, the electrical discharge hypothesis is either permissible or predictable.
+And unlike every competing hypothesis, in not a single instance does the evidence preclude electrical discharge as the cause of the rilles.
+Even prior to Juergens’ investigation, several scientists had noted that flowing liquids, whether water or lava, could not have caused the observed features of the lunar rilles, including the strings of craters along the rilles’ floors.
+These points are dramatically emphasized when we examine up close the Moon's famous Hadley Rille.
+Today planetary scientists agree that the rille is a quote “collapsed lava tube”, but the rille does not match the required characteristics of lava tubes on numerous points.
+Most importantly, the collapsed areas of a lava tube will be rubble-filled depressions.
+High-resolution images of the rille reveal no rubble and no collapsed tubes.
+It is simply an empty, sharply-cut channel which matches the expected characteristics of an electrical quote ”breakdown channel.” Perhaps the greatest problem for the volcanic hypothesis of lunar rilles is their tremendous length.
+On our own planet, the longest lava tube reaches only 65 kilometers.
+That is about half the length of Hadley Rille which is 130 kilometers.
+However, the exact opposite should be true.
+On Earth the atmosphere is insulating, allowing lava to retain its heat.
+In the vacuum of space, heat will be much more rapidly radiated away.
+On our planet, as lava flows over distances no more than tens of kilometers, the cooling at the surface causes a roof to form.
+It may then continue to flow as a tube beneath the surface.
+That is the only way the lava tubes can achieve even their modest lengths.
+Consider then the most prominent lunar rille called Schroeder's Valley, 185 kilometers long and up to 10 kilometers wide, with its depth at points reaching up to 1300 meters.
+Flowing lava, eating away surface material to cut a deep channel, would have to show up somewhere.
+We should see either breaches in the deep walls, or evidence of abundant outflow.
+Instead, the channel simply dwindles until it disappears.
+Curiously, the flow of rilles on the Moon and other worlds isn't limited to downhill, like lava- and water-carved channels on Earth.
+All fluid erosion theories for Schroeder's Valley have chosen to ignore that the apparent mouth of the stream is on high ground, and the narrowest part of the channel is on low ground.
+We also note that within Schroeder's Valley is a much more narrow secondary rille whose defining feature is a chain of small craters.
+Again, if the Moon was indeed ravaged by high energy electrical discharge, nothing found in decades of study of samples of lunar rocks and soil is inconsistent with the hypothesis.
+This includes the discovery of glass spherules and chondrules found in abundance in the lunar soil.
+The afore- mentioned so-called asteroid Kamo’oalewa need not have been produced by a kinetic impact with a lunar surface.
+As Wal Thornhill has suggested in a private communication, the object's very Earth-like orbit, as well as its modest inclination to the ecliptic, suggests it may have escaped the Moon due to an electrical discharge with a body, also moving in the ecliptic plane.
+More than anything, the lesson we can learn from many decades of investigation into the Moon is this: A cosmology that relies on collisions and explosions has found more problems than support in science discovery.
+Problems that might only be resolved by a new understanding of our Electric Universe.
+[Music]

@@ -1,0 +1,61 @@
+Url: https://www.universeofparticles.com/the-electric-field/
+Format: e-book
+Text (multiline):
+
+The Electric Field
+
+The electric force can be explained entirely in terms of zero-point neutrinos. All that’s required is to give the neutrino the ability to carry a footprint of whatever charged particle it has most recently interacted with.
+
+When a neutrino hits a hook covered quantum, its hoops get drawn out. The neutrino gets a small charge which it carries with it back into space. A neutrino that hits a hoop covered quantum will return to space with its hooks drawn out.
+
+The space around a positive particle is in this way filled with neutrinos with their hoops drawn out. The space around a negative particle is full of neutrinos with hooks drawn out.
+
+When charged neutrinos hit other charged neutrinos we get one of two types of collisions:
+
+    If the neutrinos carry different charges, we get collisions that eject them from the field between the two charged surfaces. We get a low pressure in the aether.
+    If the neutrinos carry the same charge, we get collisions that keep them in the field between the two charged surfaces, allowing more neutrinos to enter. We get a high pressure in the aether.
+
+Low and high pressure regions are thus created in the aether by charged surfaces.
+Abrasive and non-abrasive collisions of neutrinos between charged surfaces
+
+[Image "opposite charges attract while same charge repel", img11.png]
+
+This explains why opposite charges attract while same charge repel.
+
+
+
+
+Static Charge and Neutral Bodies
+
+When a neutral body comes in contact with a charged body, there’s attraction. This is relatively easy to explain in terms of charged quanta.
+
+A neutral body is only neutral in that it has no net charge. Everything is made up of electrons and protons, which again are made up of positive and negative quanta.
+
+A charged surface will pull opposite charges towards it. The distribution of charges in the neutral surface becomes distorted. Attracted charges rise to the surface while repelled charges are pushed into the material.
+
+[Image "Neutral surfaces distorted and attracted by charged surfaces", img12.png]
+
+With attracting charges closer to the charged surface than repelling charges, the net effect is attraction.
+
+Each individual section of the neutral surface experiences either attraction or repulsion due to the charged surface. However, on average, the neutrinos inside the field will be of opposite charge due to the difference in distance between repelling and attracting sub-sections of the neutral surface. The majority of neutrinos collide abrasively, leave the field and produce low pressure.
+
+
+
+
+Coulomb’s Law
+
+Coulomb’s law states that the force between two point charges is proportional to the product of the two charges, divided by the square of the distance between them:
+
+[Image "Coulomb's Law", img13.png]
+
+This can be explained in terms of zero-point neutrinos, as follows:
+
+    The density of charged neutrinos around a charged sphere falls off by the inverse square law. This can be derived directly from geometry. The surface area of a sphere increases with the square of its radius, thus reducing density by the inverse square law.
+    The probability of a collision between two charged neutrinos, one from each charged sphere, depends on the number of charged neutrinos bouncing off of them. This in turn depends on the charge on the spheres themselves. Using basic probability theory, we get that the chance of a collision is directly related to the product of the two charges.
+    The constant k is a measure of the availability of zero-point neutrinos.
+
+From this we can explain Coulomb’s law as follows:
+
+[Image "Coulomb's Law Explained, img14.png]
+
+It follows from this that Coulomb’s law can be seen as supporting evidence for the position that the electric force is communicated by colliding particles

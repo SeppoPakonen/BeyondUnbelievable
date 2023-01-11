@@ -1,4 +1,4 @@
-## Chapter "System panic"
+## Chapter 1: System panic
 
 ### The Antenna That Killed the Big Bang: Uncovering the Work of Professor Paris Herouni
 Professor Paris Herouni's antenna in Armenia has proved to the world, that there was no Big Bang. His antenna detected no signal from the sky, showing that the 3 Kelvin temperature was not real. Support is needed to restore and save this antenna, to usher in a new dawn in astrophysics.
@@ -14,7 +14,7 @@ Birkeland Currents offer an alternative explanation to the failed attempts of as
 
 
 
-## Chapter "Rebooting a planet"
+## Chapter 2: Rebooting a planet
 
 ### Uncovering the Surprises of Space Exploration
 Space-age discoveries have uncovered unexpected phenomena and powerful electromagnetism in the vacuum of space, offering a revolutionary perspective on the cosmos.
@@ -25,88 +25,49 @@ Space-age discoveries have uncovered unexpected phenomena and powerful electroma
 A new scientific study suggests that planet formation may occur much faster than previously thought. Astronomers have been puzzled by the lack of planet-forming dust in star systems, and the team behind the study proposes that a sufficient amount of dust arises surprisingly early in a star's life. In recent years, scientific discovery has also forced a similar crisis on the question of how stars form. The Electric Universe and plasma cosmology propose that the electromagnetic phenomenon called the Z-pinch is a dominant organizational phenomenon in the cosmos, and Wal Thornhill has proposed that planets also form electromagnetically, often along the same current filaments on which stars form. The pairing of filaments can concentrate matter in toroids and closely orbiting bodies, and the weird zoo of exoplanetary systems has only affirmed the astounding failure of gravitational accretion theory to explain science discovery. The Electric Universe and plasma cosmology have made successful predictions and are worthy of sober scientific investigation.
 [Source](https://www.youtube.com/watch?v=O6ITSBJJEGs)
 
-### Stuart Talbott: Stars Are Born In Z-pinch
-[Video](https://www.youtube.com/watch?v=A8vK2x_1x8s)
-- A personal and quite clear summary of the birth of stars
+### Discovering the Electric Universe: How Stars Are Formed by the Z-Pinch Process
+Recent scientific findings have revealed that gravitational cavities do not play their expected role in quenching the growth of a star. The Snake Nebula provides dramatic evidence of stars forming along filaments and the Herschel space observatory has provided fine images of filaments glowing from the light of electric currents - debunking the idea of explosions. All of this evidence points to the power of the electromagnetic Z-pinch in forming stars.
+[Source](https://www.youtube.com/watch?v=A8vK2x_1x8s)
 
+### Re-Examining the Moon: Exploring a Radical Reassessment of Our Solar System
+The Moon has been an object of mystery since the dawn of the space age, and a recent scientific paper has added to its list of puzzles. Analysis of the Apollo asteroid Kamo’oalewa, which shares Earth's orbit around the Sun, shows that it has a spectrum remarkably similar to that of rocks from the Moon, suggesting that it may have broken off the Moon as the result of a kinetic impact. However, the Electric Universe hypothesis proposes that the Moon's heavily cratered surface was not produced by periodic impacts, but rather from interplanetary electrical discharge in a relatively recent epoch of planetary instability. This hypothesis is supported by the discovery of high concentrations of carbon ions on the Moon, an abundance that cannot be explained by the traditional impact origin of the Moon. Additionally, the supposed "impact crater" South Pole-Aitken basin does not contain the expected minerals, and the sinuous rilles on the Moon cannot be explained by flowing lava or water. All of this evidence suggests that the Moon may have been born relatively recently by electrical discharge, and has been the product of electrical scarring.
+[Source](https://www.youtube.com/watch?v=qUk3MuDEyv0)
 
-### Stuart Talbott: Cosmic Lightning On the Moon
-[Video](https://www.youtube.com/watch?v=qUk3MuDEyv0)
+### Reverse Engineering the Earth: Exploring the Patterns of Nature with Electric Forces
+In this chapter, we explored the Electric Earth theory which suggests that electrical forces shape the planet and its surroundings. We looked at the patterns of charge diffusion and how it forms circuits, and how planetary bodies respond to high potentials. We also explored how mountains can form from supersonic plasma winds, with evidence of tetrahedral shapes and pillow rocks. Finally, we looked at an example of a monolithic granite tetrahedron to further explore the electric earth theory.
+[Source](https://www.youtube.com/watch?v=hW4kCP-ascw)
 
-- A really good video considering the scarring of the planet
+## Chapter 3: Einstein, we have a problem
 
-
-### Andrew Hall: Reverse Engineering the Earth | Space News
-[Video](https://www.youtube.com/watch?v=hW4kCP-ascw)
-
-- Summarizes the text about the electricity of earth scarring
-
-
-## Chapter "Einstein, we have a problem"
-
-### Not a believer
+### Unlocking the Mysteries of the Universe: An Introduction to the Particle Model
+In this documentary, we explore a new model of the universe. This particle model explains physical phenomena such as electricity, magnetism, gravity, optics, space, time, inertia and energy through interactions between three basic particle quanta and a handful of rules. We examine how this model can be used to understand the observed universe and why it is important to keep an open mind to the idea that reality can be described in many ways.
 [Source](https://www.universeofparticles.com/introduction/)
 
-### Morton Spears, for now
-[Source](https://www.universeofparticles.com/morton-spears-particle-quanta/)
+### Unlocking Morton Spears' Particle Quanta: Exploring the Subatomic World.
+Morton Spears proposed a simpler alternative to standard particle physics. His model is made up of three indestructible particle quanta: one negatively charged, one positively charged, and one neutral. The proton is made up of 1089 positive quanta and 1088 negative quanta, and the neutron is made up of 1090 positive and 1090 negative quanta. The electron is made up of 2 negative quanta and 1 positive quantum, and the neutrino is made up of a single neutral quantum. The strong force that binds atomic nuclei is explained in terms of texture, and the photon is made of an equal number of positive and negative charge quanta in a closed state.
+[Source (4 pages)](https://www.universeofparticles.com/morton-spears-particle-quanta/)
 
-#### Proton, Neutron, Electron and Neutrino
-[Source](https://www.universeofparticles.com/morton-spears-proton-neutron-electron-and-neutrino/)
+### Exploring Electron-Positron Pair Production and Sticky Light: Uncovering the Physics of 4 Stable Subatomic Particles
+Electron-positron pair production is a phenomenon in which gamma-ray photons spontaneously produce electron-positron pairs when in close proximity of massive atomic nuclei. This can be explained as a transformation of the photon itself. Photons are made up of 3 positive and 3 negative quanta and can be transformed into inertial matter through physical manipulations. Furthermore, a recent discovery at MIT suggests that photons can stick together into pairs and triplets when passed through a cloud of ultracold rubidium atoms, thereby forming structures with mass. Of the six particles described, only four are stable: protons, electrons, photons and neutrinos.
+[Source (3 pages)](https://www.universeofparticles.com/electron-positron-pair-production/)
 
-#### Keeping Things Together
-[Source](https://www.universeofparticles.com/keeping-things-together/)
+### Unraveling the Mystery of the Bouncing Electron: The Aether of Zero-Point Particles
+At the subatomic level, an electron is trapped in a constant state of bouncing off a proton. Electron clouds are manifestations of this, and their energy states are determined by the resonant frequencies allowed by the nucleus. Chemical bonds are formed when electrons find ways to bounce off more than one nucleus at a time, such as in the case of hydrogen molecules. Every time atoms combine, energy is released. This energy is carried by photons, but there must be an aether made up of undetectable particles in order for this process to work. This aether is made up of zero-point photons and neutrinos, and its constantly vibrating at a high frequency.
+[Source (4 pages)](https://www.universeofparticles.com/sticky-light/)
 
-#### The Dielectric Photon
-[Source](https://www.universeofparticles.com/the-dielectric-photon/)
-
-### Electron-Positron Pair Production
-[Source](https://www.universeofparticles.com/electron-positron-pair-production/)
-
-### Sticky Light
-[Source](https://www.universeofparticles.com/sticky-light/)
-
-### Four Stable Particles
-[Source](https://www.universeofparticles.com/four-stable-particles/)
-
-### The Bouncing Electron
-[Source](https://www.universeofparticles.com/the-bouncing-electron/)
-
-### Chemistry
-[Source](https://www.universeofparticles.com/chemistry/)
-
-### Photons as Carriers of Energy
-[Source](https://www.universeofparticles.com/photons-as-carriers-of-energy/)
-
-### An Aether of Zero-Point Particles
-[Source](https://www.universeofparticles.com/an-aether-of-zero-point-particles/)
-
-### The Electric Field
-[Source](https://www.universeofparticles.com/the-electric-field/)
-
-### Static Charge and Neutral Bodies
-[Source](https://www.universeofparticles.com/static-charge-and-neutral-bodies/)
-
-### Coulomb’s Law
-[Source](https://www.universeofparticles.com/coulombs-law/)
-
-### Gravity
-[Source](https://www.universeofparticles.com/gravity/)
-
-### Anti-Gravity
-[Source](https://www.universeofparticles.com/anti-gravity/)
-
-### Gravity and Shielding
-[Source](https://www.universeofparticles.com/gravity-and-shielding/)
-
-### Electric Currents
-[Source](https://www.universeofparticles.com/electric-currents/)
-
-### The Two Orb Photon
-
-### Ampère’s Right-Hand Grip Rule
+### Explaining the Electric Force Using Zero-Point Neutrinos
+The electric force can be explained entirely in terms of zero-point neutrinos. When a neutrino hits an object with a charge, it carries a footprint of the charge with it and creates a low or high pressure in the aether depending on the charge of the neutrino. Neutral bodies also experience attraction to charged surfaces due to the distortion of the distribution of charges. Coulomb's law can be explained in terms of the probability of collisions between charged neutrinos, which is related to the product of the two charges, and the availability of zero-point neutrinos.
+[Source (3 pages)](https://www.universeofparticles.com/the-electric-field/)
 
 
-### Permanent Magnets
+### Uncovering the Mystery of Gravity and Anti-Gravity
+Gravity is an imbalance in the electric force that produces a weak attracting force between neutral bodies. This explains why the formula for Newton's universal law of gravity is so similar to Coulomb's law. Anti-gravity is the opposite of gravity and manifests itself as a high pressure in the regions away from the gravitational field. Gravity and anti-gravity cannot be shielded from, as their effects daisy-chain out to other bodies.
+[Source (3 pages)](https://www.universeofparticles.com/gravity/)
+
+### Exploring Electric Currents and Permanent Magnets through Zero-Point Photons
+Electric current is the motion of charged particles, typically electrons, through a conducting wire. Every electric current generates a magnetic field around it, which can be explained in terms of zero-point photons being polarized and set spinning. Permanent magnets are pieces of metal, usually iron, which have a permanent magnetic field associated with them. This field is caused by the atoms of the metal hooking onto one side of nearby zero-point photons more readily than the other side.
+[Source (4 pages)](https://www.universeofparticles.com/electric-currents/)
+
 
 
 ### Ferro-Fluids

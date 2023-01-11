@@ -1,0 +1,66 @@
+Url: https://www.universeofparticles.com/gravity/
+Format: e-book
+Text (multiline):
+
+Gravity
+
+The electric force between an electron and a proton is due to their difference in charge. A proton carries a net charge of +1, while the electron carries a net charge of -1. The fact that there’s a total of 2177 charged quanta making up the proton and a total of 3 charged quanta making up the electron does nothing to alter this. It’s the net charge of the respective particles that matters.
+
+Together, the proton and electron forms a neutral whole with a net charge of 0. However, this is not to say that there’s no charge surrounding a neutral atom. There’s a big difference between no net charge and no charge at all.
+
+Neutral matter produce just as many charged neutrinos as charged matter. The only difference is that the charge adds up to exactly zero in the case of neutral matter, while charged matter produce an excess of either negatively or positively charged neutrinos.
+
+The electric force depends on the net imbalance in charge between two bodies. When the number of positively and negatively charged neutrinos around a body average out to zero, there’s no electric force.
+
+However, as previously mentioned, there’s a tiny difference in reactivity between positively and negatively charged quanta. This was illustrated with the analogy of Velcro, in which hooks react ever so lightly with other hooks while hoops don’t react with other hoops. This in turn was used to explain why protons are larger than electrons.
+
+Since positive quanta react lightly with each other, we get that a collision between two positively charged neutrinos won’t be the completely perfect bounce that we get when two negatively charged neutrinos collide.
+
+For two neutral bodies, we get that the following four types of collisions can happen with exact same probability. Note that all collisions except hooks on hooks produce one unit of pressure:
+
+    Hooks meet hoops = 1 unit of low pressure
+    Hoops meet hooks = 1 unit of low pressure
+    Hoops meet hoops = 1 unit of high pressure
+    Hooks meet hooks = 1-x unit of high pressure, where x is a tiny fraction of 1
+
+The hooks on hooks collision produces a slightly imperfect collision, resulting in a less than perfect unit of high pressure. When we add up all the possible collisions, we get a tiny bit of low pressure.
+
+With a sufficiently large number of collisions we get a weak attracting force.
+
+It’s this weak attracting force between neutral bodies that we refer to as gravity.
+
+From this we see that gravity is due to a tiny imbalance in the electric force. This in turn explains why the formula for Newton’s universal law of gravity bears a striking resemblance to Coulomb’s law.
+
+Coulomb’s law is an expression for force based on net charge, while Newton’s law is an expression for force based on total charge. Since inertial mass is directly related to the number of charged quanta making up protons and electrons, inertial mass can be seen as a proxy for total charge.
+
+[Image "Coulomb's law compared to Newton's law", img15.png]
+
+
+
+
+Anti-Gravity
+
+The imbalance in the electric force, which we call gravity, manifests itself as a low pressure area in the aether between bodies of dielectric matter. There’s a tendency for neutrinos to leave the field between such bodies.
+
+It follows from this that the regions away from the gravitational field must experience a high pressure corresponding to the low pressure. This high pressure is the opposite of gravity. It’s anti-gravity.
+
+[Image "Gravity pulling bodies together, and anti-gravity dissipating into space", img16.png]
+
+Since the space away from the gravitational field is much bigger than the field itself, the high pressure produced is dispersed to such a degree that it becomes impossible to detect in places like our solar system where astronomical bodies are thinly distributed. However, in environments with a great number of astronomic bodies packed closely together, anti-gravity may be detectable.
+
+
+
+
+Gravity and Shielding
+
+There’s no way to shield ourselves from the effect of gravity. There’s no material that we can stand on to prevent our planet from pulling on us.
+
+This is because gravity is a universally attracting force. The attracting force between two bodies may be consumed in the sense that their attraction only affects the two bodies in question. However, the effect is not lost. It daisy-chains out to other bodies.
+
+If I stand on a slab of rock, the rock “consumes” just as much gravity as it “produces”.
+
+Every body of dielectric matter has around it a cloud of charged neutrinos. Where these clouds interact, we get a low pressure in the aether.
+Gravity daisy-chaining between three bodies
+
+[Image "Low pressure areas between bodies daisy-chain", img17.png]
+Low pressure areas between bodies daisy-chain in such a way that the net effect can be calculated by treating each interaction individually, before adding them all up to get the overall effect.

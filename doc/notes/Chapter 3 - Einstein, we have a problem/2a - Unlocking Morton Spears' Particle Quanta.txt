@@ -1,0 +1,94 @@
+Title: Universe of Particles: Morton Spears
+Url: https://www.universeofparticles.com/morton-spears-particle-quanta/
+Format: e-book
+Text:
+Morton Spears’ Particle Quanta:
+
+The theory proposed in this book uses Morton Spears’ particle model, proposed in his second book on gravity, published in 1993. The reason for this is that it’s the simplest model I could find that suits the purpose of my physics. Nothing more elaborate is required.
+
+Morton Spears’ model is much simpler than standard physicists. Morton Spears doesn’t invoke a large array of Quarks, Leptons and Bosons. Instead he makes the proposition that the subatomic is made up of three indestructible particle quanta. One negatively charged, the other positively charged, and the third neutral. These particle quanta are all 3-dimensional and therefore easy to relate to.
+
+[Image "Morton Spears' 3 Particle Quanta"]
+
+Some may object to this alternative to standard theory based on evidence that suggest that Quarks, Lepton and Bosons are real. However, the evidence isn’t conclusive. All that’s been observed is that atoms smashed together with great force break apart. A large number of short lived particles appear before promptly recombining into something more stable. Nothing is proved beyond the fact that atoms are made up of a large number of smaller parts.
+
+Choosing conventional particle physics over Morton Spears’ model would merely complicate things as far as my particular theory is concerned. I chose therefore to go with Morton Spears, and since nothing turned up in which I would require Quarks, Leptons or Bosons, I stuck with his model.
+
+
+
+
+Morton Spears’ Proton, Neutron, Electron and Neutrino:
+
+Morton Spears arrived at his particle quanta by comparing the mass of a proton to that of a neutron. The mass of these two particles differ by a ratio of 2177 to 2180. From this, he concluded that a proton is made up of 1089 positive quanta and 1088 negative quanta, and that the neutron is made up of 1090 positive and 1090 negative quanta.
+
+This gives the proton a net charge of 1 and the neutron a net charge of 0.
+
+The total number of charged particles gives us the mass of the proton and the neutron. The net sum of charged particles give us their overall charge.
+
+Since the neutrino has no mass, we don’t know how many neutrinos may take part in the construction of a proton or neutron. However, we do know that a free neutron will decay into a proton, an electron and a neutrino in about fifteen minutes when taken out of an atomic nucleus.
+
+[Image "Free Neutron Decay"]
+
+This tells us that the difference of 3 quanta between the neutron and the proton must be the charged quanta making up the electron.
+
+The electron is therefore made up of 2 negative quanta and 1 positive quantum.
+
+We will for now leave out the role of the neutrino. The point is that as far as mass is concerned we know the number of charged quanta making up the neutron, the proton and the electron.
+
+The neutrino is very small. It’s therefore reasonable to assume that it’s made up of a single neutral quantum.
+
+To summarize, we have the following:
+
+ - Proton = 1089 positive quanta + 1088 negative quanta (a total of 2177)
+ - Neutron = 1090 positive quanta + 1090 negative quanta (a total of 2180)
+ - Electron = 1 positive quantum + 2 negative quanta (a total of 3)
+ - Neutrino = 1 neutral quantum
+
+
+
+
+
+Keeping Things Together:
+
+With the exception of the neutrino, all of Morton Spears’ particles are composed of three or more particle quanta, and an idea struck me immediately regarding this.
+
+Morton Spears’ quanta must have some sort of texture to them so that they can stick together.
+
+Allowing for this, the strong force that holds atomic nuclei together can be explained entirely in terms of texture. The short reach of the strong force corresponds to the short reach of the textures covering each quantum.
+
+Furthermore, if these textures are such that positive quanta are slightly more reactive than negative ones, then the puzzling difference in size between the electron and the proton can be explained. Protons are larger than electrons because positive quanta are a tiny bit more reactive than negative ones.
+
+[Image "Electron, proton and neutron"]
+
+For the purpose of illustration, we can use Velcro as an analogy for the two types of textures involved. We can assign hooks to positive quanta and hoops to negative quanta.
+
+Anyone that has played with Velcro knows that hoops don’t react with other hoops, but hooks do react ever so slightly with other hooks. There’s a tiny imbalance in reactivity between hooks and hoops.
+
+As for neutral quanta, I came to the conclusion that they would have to have a surface covered in hooks and hoops in equal measures. This would allow them to interact weakly with both electrons and protons.
+
+The point here isn’t that these quanta are covered in Velcro. The precise nature of the quanta is irrelevant. The point is that they have surface features, and that they stick together in ways that are reminiscent of Velcro.
+
+
+
+
+The Dielectric Photon:
+
+The electromagnetic phenomena of visible light, radio waves, gamma-rays and the like, are ascribed to the photon, a tiny massless particle capable of carrying energy.
+
+Since Morton Spears’ neutral quantum is assigned to the neutrino, the photon has to be made of an equal number of positive and negative charged quanta.
+
+The photon has to be dielectric.
+
+[Electron, neutrino and dielectric photon]
+
+The fact that photons are much smaller than electrons, and without inertial mass, implies that the quanta involved are in a compact massless state.
+
+For photons to be made of the exact same type of quanta as electrons and protons, Morton Spears’ quanta will have to come in two states, one small and compact, and the other large and bloated.
+
+The quanta making up electrons and protons must be in an open state while the quanta making up the photon are in a closed state.
+
+Quanta in the open state, are large, with inertia. Quanta in the closed state are small, with no inertia.
+
+Photons are thus made up of an equal number of positively and negatively charge quanta in the closed state.
+
+As for the exact composition of the photon, it can be derived from the phenomenon of electron-positron pair production.

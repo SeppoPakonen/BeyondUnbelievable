@@ -1,0 +1,92 @@
+Url: https://www.universeofparticles.com/electric-currents/
+Format: e-book
+Text (multiline):
+
+Electric Currents
+
+An electric current can be defined as charge in motion. Normally when we think of electric currents, we think of electrons moving through a conducting wire. However, a positively charged gas, moving through space would also be a current. Any charged object or particle in motion constitutes an electric current.
+
+For a current to be significant, it must have a large number of similarly charged particles, all moving at a similar velocity. The analogy is that of a river of charged particles.
+
+For the purpose of definition, it has been decided that the direction of a current is that of a positive ion in motion. This means that when we have electrons moving through a wire in one direction, the current is by definition in the other direction.
+
+The reason for this is the fact that a current always generates a magnetic field around it in such a way that if we hold our right hand thumb in the direction of the current, our fingers fold in the direction of the magnetic field. This is known as Ampère’s right-hand grip rule.
+
+[Image "Ampère's right-hand grip rule", img18.png]
+
+It doesn’t matter if the current is due to positive ions moving from right to left, or electrons moving left to right. The magnetic field will always circle the current as if it was caused by positive ions moving from right to left.
+
+This indifference of the magnetic field to whether the electric current is caused by electrons moving in one direction or positive ions moving in the opposite direction is at first glance puzzling. However, once we understand the effect that charges in motion have on zero-point photons, the mystery solves itself.
+
+A positive charge moving in one direction will set zero-point photons spinning around it in a manner identical to that of a negative charge moving in the opposite direction.
+
+The magnetic field accompanying all and every electric current can be explained entirely in terms of zero-point photons being polarized and set spinning.
+
+
+
+
+The Two Orb Photon
+
+
+When zero-point photons hit either protons or electrons, the hooks and hoops of the charged particles briefly latch onto the hooks and hoops of the photons. This cause the photons to change their spin and orientation before continuing their way back into space.
+
+For stationary protons and electrons, the change in direction and spin is completely random. There’s no net effect. But for a charged particle in motion, there is an effect. Zero-point photons will tend to spin and orient themselves in parallel with the moving particle. Zero-point photons polarized in this manner constitute magnetic fields.
+
+However, for this to happen in accordance to Ampère’s right-hand grip rule photons cannot be any random configuration of six charged quanta. Their structure must be that of two counter-spinning orbs.
+
+[Image "Two orb model of the photon", img19.png]
+
+The six charged quanta making up the photon must be modelled as two orbs of opposite charge, one spinning one way and the other spinning the other way at the exact same rate.
+
+If one orb latches onto a charged particle, thus changing its spin, the other orb changes its spin with an exact and opposite amount.
+
+With this model of the photon, Ampère’s right-hand grip rule becomes relatively easy to explain.
+
+Also, the fact that the two orb photon is oblong rather than spherical can be used to explain optical polarization through reflection.
+
+
+
+
+Ampère’s Right-Hand Grip Rule
+
+Key to understanding Ampère’s right-hand grip rule in terms of zero-point photons is to imagine two ions moving through space. By comparing the effect of a positive ion moving from right to left, to the effect of a negative ion moving from left to right, we see that the two cases create identical magnetic fields.
+
+A positive ion can be viewed as a hook covered ball. When it moves through space, it latches on to the hoop covered orbs of zero-point photons. A positive ion moving from right to left sets the orbs of the zero-point photons spinning counter-clockwise when viewed from above.
+
+The photons are also oriented by the tug of the ion on their negative orbs.
+
+[Image "Positive ion producing magnetism in photons by setting their negative orbs spinning", img20.png]
+
+Zero-point photons moving away from the photon after a bounce, are all polarized and spinning. A circular magnetic field radiates out from the moving ion.
+Conversely, a negative ion moving from left to right, will also set the orbs of zero-point photons spinning in the counter-clockwise direction as viewed from above. The only difference is that negative ions tug on the positive orbs of photons. But since the negative ion is moving in the opposite direction of the positive ion, the spin and orientation of the photons come out the same in both cases.
+
+[Image "Negative ion producing magnetism in photons by setting their positive orbs spinning", img21.png]
+
+The magnetic field developed around the two ions are identical.
+
+The two orb model of the photon behaves precisely the way it has to in order to model real world magnetism around charges in motion.
+
+
+
+
+Permanent Magnets
+
+A permanent magnet is a piece of metal, usually iron, which has a permanent magnetic field associated with it.
+
+The way such materials can be explained in terms of zero-point photons, is that the atoms making up a permanent magnet are arranged in such a way that their electrons hook onto one side of nearby zero-point photons more readily than the other side.
+
+The more coordinated and vigorous the atoms are in their lopsided effect on zero-point photons, the stronger the magnet.
+
+Bouncing about inside a magnet, zero-point photons become polarized. The result is polarized zero-point photons exiting the magnet from both poles in equal measures.
+
+[Image "Magnet inducing spin into photons streaming out of the south and north poles", img22.png]
+
+When exiting polarized photons meet incoming photons, they brush into each other. Spin and orientation is shared. This polarizes the incoming photons as they head towards the magnet. Even without direct contact with the magnet, they receive a certain degree of polarization.
+
+[Image "Photons entering and leaving both ends of a magnet", img23.png]
+
+Note that spin is transferred between orbs of opposite charge. Orbs with identical charge don’t react with each other since they cannot latch onto each other. This allows for spin and orientation to be maintained and shared.
+
+The sharing of spin from outgoing to incoming photons produces a pattern in which highly polarized outgoing photons are surrounded by progressively less polarized photons. Between each highly polarized outgoing photon, there’s a valley, so to speak, of less polarized photons.
+
+To see a manifestation of this pattern, all we need to do is to put a ferro-fluid on top of a magnet.
