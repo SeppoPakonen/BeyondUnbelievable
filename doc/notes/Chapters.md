@@ -5,7 +5,7 @@ Professor Paris Herouni's antenna in Armenia has proved to the world, that there
 [Source](https://www.youtube.com/watch?v=p8lKQMEYYLw&list=PLnU8XK0C8oTDaiwe8Us_YNl4Kjmt8ceRD)
 
 ### The Cosmic Microwave Background - A Closer Look
-This video series challenges the claim that the Cosmic Microwave Background provides direct proof of the Big Bang. It examines how bad science has been used to support a religious concept, and speaks about the measurements of the monopole, the anisotropy maps, water and Kirchoff’s law, and the results of the WMAP, COBE and Planck satellites. It encourages viewers to watch previous videos and support the channel.
+This video series challenges the claim that the Cosmic Microwave Background provides direct proof of the Big Bang. It examines how bad science has been used to support a religious concept, and speaks about the measurements of the monopole, the anisotropy maps, water and Kirchoff’s law, and the results of the WMAP, COBE and Planck satellites.
 [Source](https://www.youtube.com/watch?v=O13ApQvUfb8&list=PLnU8XK0C8oTDaiwe8Us_YNl4Kjmt8ceRD&index=2)
 
 ### Debunking Dark Matter: The Evidence for Birkeland Currents
@@ -16,16 +16,14 @@ Birkeland Currents offer an alternative explanation to the failed attempts of as
 
 ## Chapter "Rebooting a planet"
 
-### Welcome to the Electric Universe!
-[Video](https://www.youtube.com/watch?v=9brYReflH3A)
+### Uncovering the Surprises of Space Exploration
+Space-age discoveries have uncovered unexpected phenomena and powerful electromagnetism in the vacuum of space, offering a revolutionary perspective on the cosmos.
+[Source](https://www.youtube.com/watch?v=9brYReflH3A)
 
-- General motivation for doing science individually.
 
-
-### Electrical Star & Planet Birth – Cosmic Z-pinch in Action | Space News
-[Video](https://www.youtube.com/watch?v=O6ITSBJJEGs)
-
-- Very clear summary, impersonal
+### Unveiling the Cosmic Z-Pinch: Exploring the Birth of Stars and Planets
+A new scientific study suggests that planet formation may occur much faster than previously thought. Astronomers have been puzzled by the lack of planet-forming dust in star systems, and the team behind the study proposes that a sufficient amount of dust arises surprisingly early in a star's life. In recent years, scientific discovery has also forced a similar crisis on the question of how stars form. The Electric Universe and plasma cosmology propose that the electromagnetic phenomenon called the Z-pinch is a dominant organizational phenomenon in the cosmos, and Wal Thornhill has proposed that planets also form electromagnetically, often along the same current filaments on which stars form. The pairing of filaments can concentrate matter in toroids and closely orbiting bodies, and the weird zoo of exoplanetary systems has only affirmed the astounding failure of gravitational accretion theory to explain science discovery. The Electric Universe and plasma cosmology have made successful predictions and are worthy of sober scientific investigation.
+[Source](https://www.youtube.com/watch?v=O6ITSBJJEGs)
 
 ### Stuart Talbott: Stars Are Born In Z-pinch
 [Video](https://www.youtube.com/watch?v=A8vK2x_1x8s)
@@ -366,6 +364,9 @@ Book: David Reich - Who We Are and How We Got Here
 
 #### You are repeating old conflicts until you break free
 
+#### Russia vs USA tension is based on history falsification and evil financial empire of USA
+
+##### It is supported by fake ethical values based on fake mainstream history, which confuses absolutely everyone
 
 
 
@@ -390,6 +391,10 @@ Book: David Reich - Who We Are and How We Got Here
 
 
 ### Contacting them
+
+#### Channeling
+
+##### Just reading and interpreting the information
 
 #### Contacting with meditation
 [Video](https://www.youtube.com/watch?v=GFa0jxNDHTM)
