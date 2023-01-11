@@ -10,8 +10,7 @@ This video series challenges the claim that the Cosmic Microwave Background prov
 
 ### Donald E. Scott: Dark Matter Debunked | Thunderbolts
 [Video](https://www.youtube.com/watch?v=BWW_mtihc1Q)
-
-- A softening of the attitude in order to develop one's own thoughts more politely.
+Birkeland Currents offer an alternative explanation to the failed attempts of astronomers to explain the rotational velocity of stars in galaxies through Newtonian physics. Additionally, the model provides evidence for the existence of an intergalactic web of plasma filaments connecting galaxies across vast distances. The process of Marklund Convection, which is a process that sorts atoms according to their ionization potential, is also seen in stars, including our Sun. All of this evidence suggests that the electrical interactions are responsible for all the rotation, debunking the concept and necessity of dark matter.
 
 
 
