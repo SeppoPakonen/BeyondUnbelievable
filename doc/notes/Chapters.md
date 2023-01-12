@@ -127,15 +127,36 @@ This book explores an alternative model of physics in which electricity, rather 
 
 
 
-## Chapter "Space based climate"
+## Chapter 4: Space based climate
 
-### CLIMATE FORCING | Our Future is Cold
-[Video](https://www.youtube.com/watch?v=rEWoPzaDmOA)
+### The Interaction Between Solar Activity and Climate Change
+This section looks at the relationship between solar activity and climate change. It examines the flaws in climate science, the effects of different forms of solar energy on our atmosphere, the connections between solar activity and extreme weather events, and the evidence for a connection between solar activity and climate change. It also explores how space weather, solar wind speed, relativistic electron flux, and storminess can affect hurricanes and typhoons, and how the melting of ice at the poles can cause an ice age. Finally, it looks at the potential for a grand minimum this century, and the implications of this for the Earth's climate.
+[Source](https://www.youtube.com/watch?v=rEWoPzaDmOA)
+
+#### Part 1: The Major Flaws of Climate Science
+In this part, Ben Davidson of Space Weather News explains the three major flaws of climate science that have a practical effect of rigging the studies to come out in one way. These flaws are related to the foundational level of all of the papers making up the 97%, and include the misrepresentation of the sun's influence on the upper atmosphere, the lack of understanding of the expanse of solar forcing, and the failure to account for electronmagnetic couplings.
+[0:00](https://www.youtube.com/watch?v=rEWoPzaDmOA)
+
+#### Part 2: Solar Activity and Its Effects on Our Climate
+This part looks at the effects of solar activity on our climate, discussing various forms of solar energy and how they interact with our atmosphere to create different weather patterns. It examines how ultraviolet and X-ray radiation, cosmic rays, the solar wind, and electromagnetic waves affect the polar vortex and jet streams, as well as the oscillation and circulation modulation of the ENSO and NAO patterns. It also looks at the connections between solar activity and extreme weather events, including the El Nino and La Nina patterns. Finally, it considers the evidence for a connection between solar activity and climate change, exploring the work of scientists such as Dr. Tinsley, Dr. Leslie Gray, and Ghido et al.
+[14:31](https://youtu.be/rEWoPzaDmOA?t=871)
+
+#### Part 3: Uncovering the Mysteries of Space Weather and Climate Change
+Space weather has been known to affect climate change since the time of Benjamin Franklin's experiments on thunderstorms. In the last 24 months, researchers around the world have discovered that solar and cosmic particles interact with volcanic aerosols to influence climate patterns. By studying the global electric circuit, researchers are now able to understand how cloud formation is related to space weather and climate change.
+[27:30](https://youtu.be/rEWoPzaDmOA?t=1649)
+
+#### Part 4: Sun-Earth Interaction: How Solar Activity Affects Earth's Climate
+In this part, Matt Kirkland and his student examine how solar wind speed, relativistic electron flux, and storminess vary across the boundaries between high speed and low solar wind speed sectors and magnetic sectors. Additionally, they discuss how solar activity can create and influence hurricanes and typhoons, and how the melting of ice at the poles can cause the oceans to become desalinated and chilled, resulting in an ice age. Finally, they conclude that while we must reduce pollution, we must also be aware of the flaws in the foundations of climate science, as the Sun is due for a grand minimum this century and the earth is heading back into an ice age.
+[44:00](https://youtu.be/rEWoPzaDmOA?t=2639)
+
 
 ### Goverment doesn't like
 
 #### Chemtrails
 
+### Or government likes?
+
+#### Secret research for upcoming cold climate?
 
 
 
