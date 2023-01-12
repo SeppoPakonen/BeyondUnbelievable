@@ -1,0 +1,96 @@
+Url: https://www.universeofparticles.com/the-double-slit-experiment/
+Format: e-book
+Text (multiline):
+
+The Double Slit Experiment
+
+The double slit experiment has been used as “proof” that not just photons, but all things have wave-like properties. The larger an object is, the higher is its frequency. Many things are so large that their wavelength cannot be detected. However, according to this wave-theory of matter, all things have wavelength.
+
+Many double slit experiments have been performed, and they all seem to verify this theory. Red photons have the longest wavelength. Blue photons have shorter wavelengths. Electrons have shorter wavelengths still. Atomic nuclei have wavelengths too, and even molecules have been measured to have wavelengths, extremely small, but detectable.
+
+However, all that this proves is that there’s interference taking place when particles are passed through narrow slits, and that this interference is related to the size of the particles involved.
+
+[Double slit experiment set-up, img41]
+
+What baffles people is the fact that an interference pattern appears at the detector/wall at the far end of the double slit experiment set-up even if only one particle is let through the slits in the barrier at a time.
+
+But this is only a mystery if there’s no aether. As soon as we include an aether of zero-point particles, the mystery of the observed interference pattern goes away.
+
+Since zero-point particles come in two types, namely neutrinos and zero-point photons, they resonate with each other. These particles form a standing wave.
+
+When a relatively large particle is sent through space, it bobs along on the standing wave. This creates a disturbance in the standing wave that propagates together with the particle.
+
+This disturbance passes through the two slits like a wave in a lake. The particle moves like a vessel through these waves.
+
+The larger the particle, the less affected it is by the waves, and the tighter is the pattern observed at the detector. Blue light produces a tighter pattern than red light. Electrons produce tighter patterns than photons. Atoms produce tighter patterns than electrons, and molecules produce the tightest of all patterns.
+
+[Photon bobbing along on a disturbed standing wave of zero-point particles, img42]
+
+Every detectable particle produces a wave front as it moves through the aether. This wave front is commonly referred to as the pilot wave. What’s detected at the receiver isn’t the wavelengths of particles, but the size of detectable particles relative to their respective pilot waves.
+
+
+
+
+Pilot Wave Theory
+
+The idea that there’s a pilot wave accompanying every particle isn’t new. Louis de Broglie made this suggestion back in 1929. He did this in order to get around the bizarre idea that particles can interfere with themselves by going through two openings at the same time.
+
+[Pilot wave theory, img43]
+
+The main difference between de Broglie’s pilot wave theory and the mechanism outlined in this book is that de Broglie never gave an explanation as to what the pilot wave might consist of. Instead of an aether, he invoked a mysterious hidden variable.
+
+In addition to the double slit experiment, pilot wave theory can be used to explain reflections and refraction.
+
+
+
+
+Neutrinos, Photons and Space
+
+In a physics that invokes an aether, there’s no such thing as empty space. The aether is by definition something that’s present everywhere. In the case of The Velcro Universe, the aether is a mix of neutrinos and zero-point photons.
+
+Space can therefore be considered a transparent medium. Photons travelling through “empty space” are moving through a sea of low energy particles.
+
+This means that the same rules that apply to transparent media apply to space.
+
+Small photons travel in a straighter line than big photons as they roll past zero-point particles. Small photons will therefore always win in a race with bigger photons even though these particles all travel at the same speed.
+
+The shorter distance traversed by the smaller particle is what makes it arrive quicker at the destination.
+
+It follows from this that the neutrinos, being the smallest of all particles, travel the fastest. In a race between a neutrino and a photon, the neutrino will win.
+
+[Neutrino in the process of overtaking a photon, img44]
+
+However, the effect is likely to be minuscule. Enormous distances may be required for the effect to be measurable.
+
+
+
+
+Neutrinos, Photons and Gravity
+
+We have already established that gravity is due to a small imbalance in the electrical force, and that this force is communicated by neutrinos.
+
+A consequence of this is that neutrinos aren’t affected by gravity. They carry gravity. They aren’t themselves affected by it.
+
+Furthermore, gravity is a force that only affects dielectric matter. Neutrinos aren’t dielectric. When they carry charge, it’s only one charge at the time. They never carry two charges at the same time.
+
+Photons, on the other hand are dielectric. Just like electrons and protons, photons consist of a combination of charged quanta. Photons are therefore affected by gravity.
+
+Every body of dielectric matter has charged neutrinos surrounding it. These neutrinos form low pressure areas in the aether on collision with each other. This is also the case for photons.
+
+Since neutrinos travel slightly faster than photons due to their smaller size, a cloud of charged neutrinos extends in all directions from the photon, including the front of it. This cloud is the pilot wave mentioned earlier.
+
+When a photon, surrounded by its pilot wave comes into contact with a charged cloud emanating from a massive body, the photon is affected by the resulting low pressure area in the aether just like any other bit of dielectric matter.
+
+However, photons cannot slow down or speed up. They have to travel at the speed of light. A photon moving away from a massive body must therefore shed energy in some other way than slowing down. It has to go down in energy by becoming smaller.
+
+Conversely, a photon approaching a massive body must absorb energy by becoming larger.
+
+This is what we observe as gravitational red-shift. Light escaping massive bodies becomes redder. Light approaching massive bodies becomes bluer.
+
+Light moving past a massive body bends off in the direction of the massive body, not due to a curvature of space, but due to normal gravitational behaviour of dielectric matter.
+
+[Photons passing by, moving towards and moving away from a massive body, img45]
+
+A consequence of this is that the aether close to massive bodies are richer in zero-point photons than the aether farther away.
+
+Gravity pulls all photons, including zero-point photons towards massive bodies. Neutrinos and zero-point photons are therefore not evenly distributed throughout space. Space far away from massive bodies have more neutrinos and fewer photons than space close to massive bodies.

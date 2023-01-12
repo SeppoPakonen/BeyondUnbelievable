@@ -1,0 +1,117 @@
+Url: https://www.universeofparticles.com/atomic-nuclei/
+Format: e-book
+Text (multiline):
+
+Atomic Nuclei
+
+If the neutron is a proton with an electron stuck to it, we have no need for a strong force to keep the atomic nucleus from falling apart. The natural affinity between protons and electrons is all that’s required to keep things together.
+
+This isn’t a new insight. The original models of the atomic nucleus didn’t invoke the neutron. Instead, it had atomic nuclei made up of protons with electrons as glue.
+
+This model is called the proton-electron atom.
+
+Using this model, the assembly of large atomic nuclei from smaller ones is a straight forward matter of clicking protons into stable configurations with electrons tucked in between them.
+
+[Atomic nuclei of hydrogen, deuterium, helium, lithium and beryllium, img55]
+
+This fits well with the particle model laid out in this book. There’s no need to invent anything different.
+
+
+
+
+
+Radioactivity
+
+The proton-electron model for the atom has a fairly straight forward explanation for radioactivity in materials.
+
+Large atomic nuclei are not big round balls with protons and electrons tossed together. They are more like crystals, with arms branching out and bending off to the sides.
+
+[Large atomic nucleus, img56]
+
+The core of these structures carry an overall neutral charge while the tips carry the positive charge. This means that the tips of these structures repel each other.
+
+As we go higher in atomic number, these structures start bending in on themselves. The branches get too close to each other, and the tendency is for these to break apart.
+
+Atomic nuclei falling apart in this manner is what we refer to as radioactivity.
+
+This problem doesn’t arise suddenly at a certain atomic number. There are two radioactive materials with atomic numbers less than lead. These are element in which no stable configuration can be found despite their relatively small size. There is an arm that comes out in the wrong direction. For that arm to point away from its fellow arms, it needs to have one more or one less proton.
+
+Beyond lead, there are no stable elements. They are all radioactive to some degree. The arms are turning in on themselves. There are no way to arrange them into stable structures.
+
+Part of the problem is the relative size of protons and electrons. There is a whole lot of proton for each electron. There is a lot of mass to keep in place, and if mass condensation is real, as it appears to be, then this problem is likely to increase over time.
+
+As protons grow in size, they become harder to keep in place inside the atomic nucleus.
+
+Materials that are inert today may become radioactive in the future. Materials that are radioactive today may have been inert in the past.
+
+The overall tendency is for matter to become more radioactive over time as mass condenses onto the proton.
+
+
+
+
+
+Transmutations
+
+A transmutation is a process in which an atomic nucleus goes from one position in the periodic table to another, usually one up or one down.
+
+For example, potassium occupy the 19th position in the periodic table while calcium occupies the 20th position. The two elements are separated by a single charge. If a potassium nucleus drops a negative charge, as would be the case if it sheds an electron, it would no longer have a net charge of 19 but 20. It would have moved one up in the periodic table to become calcium.
+
+[Potassium transmuting into light isotope of calcium by shedding an electron, img57]
+
+Conversely, if a calcium nucleus consumes an electron, its net charge will go down from 20 to 19. This would move it one position down in the periodic table. It would be transmuted to potassium.
+
+The mass of the atom before and after such a transmutation would be almost the same. They would only differ in mass by a single electron. This means that potassium would become a light isotope of calcium. Regular calcium would likewise become a heavy isotope of potassium.
+
+All of this can be understood in terms of the proton-electron atom.
+
+With the assumption that light is dielectric matter, a very similar mechanism can be added to this story. Since a photon has the potential of becoming an electron-positron pair, we can in theory transmute matter up and down the periodic table by the use of light.
+
+An atomic nucleus that consumes a positron without also consuming an electron will go one up in the periodic table in the same way that an atomic nucleus that consumes an electron without also consuming a positron goes down in the periodic table.
+
+Potassium can in this way be transmuted into calcium. A high energy photon breaks into an electron-positron pair. The potassium nucleus consumes the positron, while letting the electron escape.
+
+[Potassium transmuting into light isotope of calcium by positron consumption, img58]
+
+The calcium produced in this way will be heavier than the original potassium by the weight of a single positron. This kind of transmutation is therefore a type of mass condensation.
+
+We also have the possibility of atomic nuclei transmuting through the consumption or shedding of a proton. This kind of transmutation is what we normally refer to as nuclear fusion and fission.
+
+[Potassium transmuting into a regular isotope of calcium through fusion with a proton, img59]
+
+Potassium can be transmuted into calcium through fusion with a proton, and calcium can be transmuted into potassium through fission.
+
+Any kind of fusion or fission can be considered a type of transmutation. One such transmutation is the Sodium to Potassium transmutation that some believe our bodies to be capable of performing.
+
+
+
+
+
+Antimatter
+
+When an electron and a positron collide, we get what’s called an electron-positron annihilation. The electron and the positron disappear, and a gamma-ray photon takes their place.
+
+[Electron-positron annihilation yields one gamma-ray photon, img60]
+
+This was briefly touched upon in the chapter about electron-positron pair production.
+
+In the physics laid out in this book, matter is never created nor destroyed. It is merely transformed. In the case of electron-positron pair production and annihilation, matter is being converted between the open and closed state.
+
+Positrons are highly reactive. They combine readily with electrons to form gamma-ray photons. However, this does not prevent them from reacting with other particles as well. In the absence of an electron, the positron can react with atomic nuclei. It can produce transmutations and mass condensation.
+
+Conventional theory, on the other hand, sees something entirely different in electron-positron pair production and annihilation. It sees the creation and destruction of matter.
+
+This line of thinking has been extended to all kinds of matter, and has given rise to the idea of antimatter.
+
+For every bit of conventional matter, there exists an antimatter. There’s the anti-proton and the anti-neutrino. There are even anti-atoms made up of anti-particles in the same way that regular atoms are made up of regular particles.
+
+Excited about this idea, people have tried to produce these anti-particles in laboratories, and they have succeeded, at least to a certain extent.
+
+Various types of antimatter have been produced, and true to theory, these bits of antimatter always disintegrate into gamma-ray radiation when in contact with regular matter.
+
+However, all of this can be explained just as well with the theory laid out in this book.
+
+What has been produced are merely extremely unstable particles that naturally disintegrate into gamma-rays when in contact with regular particles.
+
+As for detectable neutrinos and anti-neutrinos, these are highly charged neutrinos with sufficient energy to be detected. When a positively charged neutrino hits a negatively charged neutrino, they cancel out their charges, and their energy is transferred to a nearby zero-point photon.
+
+The fact that highly unstable particles can be created in a lab, and neutrinos can be excited to such an extent that they are detectable, does not prove the existence of antimatter. It merely demonstrates that it is always possible to produce such particles, given enough energy to do so.

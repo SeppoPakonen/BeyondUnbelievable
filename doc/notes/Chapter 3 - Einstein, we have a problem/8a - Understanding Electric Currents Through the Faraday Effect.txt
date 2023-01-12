@@ -1,0 +1,86 @@
+Url: https://www.universeofparticles.com/ferro-fluids/
+Format: e-book
+Text (multiline):
+
+Ferro-Fluids
+
+When a ferro-fluid is placed on top of a magnet, it morphs into sharp peaks surrounded by shallow valleys. Highly polarized photons are producing the peaks, while less polarized photons are producing the valleys.
+
+[Ferro-fluid Photo by Steve Jurvetson – http://www.flickr.com/photos/jurvetson/136481113/, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=906519, img24]
+
+
+
+
+The Faraday Effect
+
+The fact that photons don’t have to hit a magnet in order to become polarized was discovered by Michael Faraday in 1845. By passing visual light through a magnetic field, he observed polarization. This is what we call the Faraday Effect. It proves that there’s a direct relationship between magnetism and light.
+
+[Visible light polarized by a magnetic field]
+
+The Faraday Effect can be used as supporting evidence for the position that magnetism is a form of polarized light.
+
+When photons are polarized so that they spin along the same axis and with their positive and negative orbs facing the same way, we have magnetism.
+
+
+
+
+The Magnetic Field
+
+Magnetic fields fan out to the side. Outgoing photons allow incoming photons to come in between them. The outgoing photons yield to the incoming ones.
+
+If we place a bar magnet under a sheet of paper, and sprinkle iron filings on top of it, we can see how this fanning out continues in all directions so that we get a pattern that connects the north pole to the south pole.
+[Magnetic field lines illustrated by iron filings on paper above a magnet. By Newton Henry Black - Newton Henry Black, Harvey N. Davis (1913) Practical Physics, The MacMillan Co., USA, p. 242, fig. 200, Public Domain, https://commons.wikimedia.org/w/index.php?curid=73846, img25]
+
+Polarized photons stream out from the north and the south pole of magnets in equal measure. However, there’s no overall flow. All that is happening is that the polarized photons arrange themselves in the most efficient manner possible. Magnets polarize zero-point photons which in turn polarize all photons in the space around the magnet.
+
+If two magnets are placed so that their north poles or south poles face each other, polarized photons from the magnets will meet head on in non-abrasive collisions. Since the colliding orbs are of the same charge, the photons will tend to stay and accumulate in the field. The result is a high pressure in the aether between the magnets. We have a repelling force.
+
+[Non-abrasive collisions between photons produce high pressure, img26]
+
+Conversely, if a north pole is facing a south pole, polarized photons collide with hooks against hoops. The collisions are abrasive. The photons will tend to exit the field. This results in a low pressure area in the aether between the magnets. We have an attracting force.
+
+[Abrasive collisions between photons produce low pressure, img27]
+
+This is identical to how neutrinos produce high pressure and low pressure areas in the aether through collisions. The magnetic force is communicated by photons in the same way that the electric force is communicated by neutrinos.
+
+
+
+
+Magnetic Materials
+
+Most materials react in some way to magnetic fields. However, most of these react so weakly that it can only be noticed under very controlled conditions.
+
+The most common reaction to a magnetic field is a minuscule repelling force. These are the so called diamagnetic materials.
+
+Then there are the paramagnetic materials that react with a minuscule attracting force.
+
+Finally, we have the ferromagnetic materials such as iron that react with a strong attracting force.
+
+This can all be explained with polarized zero-point photons being reflected by the materials involved.
+
+In the case of diamagnetic materials, we have reflection in which the polarized photons are flipped around. This produces a repelling force.
+
+[Diamagnetic materials: polarized photons are flipped on reflection img28]
+
+In the case of paramagnetic and ferromagnetic materials, we have reflection in which the polarized photons are bounced back directly. There is no flipping around of polarity, and we get attraction as a result.
+
+[Paramagnetic and ferromagnetic materials: polarized photons are not flipped on reflection img29]
+
+In the case of diamagnetic and paramagnetic materials, the effect is weak. There’s scatter and little reflection. However, in the case of ferromagnetic materials, reflection is near perfect.
+
+Unlike visible light, which reflects off of the outer surfaces of materials, zero-point photons reflect mostly off of the atoms inside the material.
+
+Zero-point photons tunnel into materials before interacting with them. There’s no way to polish an outer surface to improve the magnetic properties of a material.
+
+
+
+
+Making a Permanent Magnet
+
+In addition to being highly reflective of zero-point photons, ferromagnetic materials can be induced with a permanent magnetic field. Their atoms can be arranged in such a way that zero-point photons get polarized when inside the material. This is done by exposing a ferromagnetic material to a strong magnetic field.
+
+From our knowledge of how Ampère’s right-hand rule works, we can see that such a field can be produced with electricity. If we wind a coil of copper wire around a piece of ferromagnetic material we get the required magnetic field by applying a direct current to the copper wire.
+
+[Induction of magnetism into a ferromagnetic rod, img30]
+
+Highly polarized zero-point photons spin their way through the ferromagnetic material, pushing the atoms into place, thus inducing permanent magnetism into the material. Only ferromagnetic materials are receptive to this kind of treatment.

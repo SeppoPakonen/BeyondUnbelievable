@@ -1,0 +1,137 @@
+Url: https://www.universeofparticles.com/stability-of-orbits/
+Format: e-book
+Text (multiline):
+
+Stability of Orbits
+
+Electric repulsion due to similar charged surfaces is what keeps orbits from collapsing or flying apart at the slightest disturbance.
+
+To see how this works, consider our Moon and what would happen if some external force were to push it hard towards our planet.
+
+Without electric repulsion, our Moon would speed up, the force of gravity would be stronger on average, and the orbit would be elongated. Pushed hard enough, our Moon would crash into our planet.
+
+Conversely, if the push was away from us, our Moon would start following a wider orbit, also more elongated than it is today.
+
+However, when we include the effect of electric repulsion, we see that things quickly stabilise.
+
+[Electric repulsion and gravitational attraction, img68]
+
+Contrary to the gravitational force, which acts from the centre of objects, the electrical force acts between the surfaces of objects.
+
+This means that electric repulsion increases more quickly than the attraction of gravity for bodies that approach each other. It also means that electric repulsion decreases more quickly than gravity for bodies that move apart.
+
+The net effect is buffering. If our moon is pushed towards us, repulsion kicks in. If our moon is drawn away from us, repulsion decreases more than attraction. Oblong orbits are thereby restored to near perfect circles.
+
+This is true for all astronomic bodies and the reason why collisions between such bodies are rare.
+
+Furthermore, we can make the prediction that if an expanding planet is changing its gravity primarily due to an increase in charge, orbiting moons will be pushed farther away. The increase in charge will trump the corresponding increase in gravity.
+
+As it happens, our Moon is receding from us by a few centimetres a year. This is attributed to tidal forces. However, it may also be due to ongoing changes in our planet’s total charge.
+
+All orbits may be changing over time, with young orbits closer together than old ones.
+
+
+
+
+Meteorites
+
+When a meteorite enters Earth’s atmosphere, it soon starts to glow. This goes on for a short while before it vanishes, either quietly, or in a flash.
+
+Conventional theory claims that this is due to friction between the meteorite and the atmosphere. However, the magnitude of the explosions observed when large meteorites enter the atmosphere makes it hard to believe that this is all due to heat convection. The difference in electric potential between our atmosphere and the incoming object is a more likely source of such enormous energy.
+
+[Large meteorite glowing before exploding, img69]
+
+The glow and the explosions associated with meteorites are most likely electrical discharges. Small objects manage to equalize their electric potential with the atmosphere by sparkling brightly. Larger objects explode. The explanation is found in the way charged objects equalize potential differences with their environments.
+
+
+
+
+Impact Craters
+
+Most meteorites, when we see them in the night sky, come in at an angle. Rarely do we see them come straight down from above.
+
+This mean that such bodies would leave oblong craters if they were to strike the crust of our planet.
+
+However, all impact craters are circular. There isn’t a single oblong impact crater on our planet, nor is there any such crater on the Moon.
+
+This indicates that all meteorites explode before they hit ground. Only tiny objects can make it all the way to ground without exploding.
+
+[Impact crater produced by exploding meteorite, img70]
+
+This is true on Earth, on the Moon, and everywhere else in our solar system. Since there’s no atmosphere on the Moon, we must assume that these explosions are electric in nature.
+
+
+
+
+Moon Craters
+
+If craters on the Moon are solely due to impact, as many believe, then we should expect craters to be randomly distributed. Some shielding from Earth would be expected, but for the rest, the craters should appear with no clear pattern.
+
+However, this isn’t the case. Small craters are predominantly located on peeks and ridges. They often appear on the edges of older, bigger craters, or lined up neatly along a ridge.
+
+[Electrical cratering on exposed edges, img71]
+
+Larger craters are uniformly spread out. Viewed from the north pole or south pole, a spiralling pattern of large craters can be seen.
+
+This indicates some sort of continuous process in which craters are excavated slowly over time.
+
+Ion winds could do this. Charged particles move along the surface of our Moon until they find a suitable escape point, usually on a ridge or other high point. They spiral around the escape point a few times before leaving the surface.
+
+Over time, craters appear, evenly spaced out, themselves forming a spiralling pattern due to the way electric currents spiral and even out charge as much as possible.
+
+[Lunar north pole By NASA/GSFC/Arizona State University - http://wms.lroc.asu.edu/lroc_browse/view/npole (see also http://photojournal.jpl.nasa.gov/catalog/PIA14024), Public Domain, https://commons.wikimedia.org/w/index.php?curid=31697472, img72]
+
+The craters on the Moon are not proof of a violent past, but mostly the result of dust and other particles fluttering along its surface.
+
+Impact craters are relatively rare in comparison to electrically excavated craters.
+
+As an interesting aside the south pole of our Moon has deeper craters than the north pole. This indicates that the current running across the surface of our Moon is from south to north.
+
+
+
+
+
+Comets
+
+If the voltage potential of our atmosphere is a few hundred thousand volts, then something similar should be true for the solar system as a whole. The electric potential between the inner and outer solar system should be enormous. An object moving from the outer to the inner regions, or visa versa, should experience electrical stress similar to that experienced by meteorites entering our atmosphere.
+
+Comets, with their oblong orbits around our Sun, should display evidence of electrical activity, which is exactly what they do.
+
+Long before comets enter regions warm enough to melt water, they develop long tails rich in water. But comets aren’t icy bodies. They are rocks. Space probes that have observed comets up close, and even landed on them, have found no source of water, only barren rock and dust.
+
+The water associated with comets appear to be synthesized at their surfaces.
+
+[Comet 67P in January 2015 as seen by Rosetta's NAVCAM By ESA/Rosetta/NAVCAM https://www.flickr.com/photos/europeanspaceagency/16456721122/, CC BY-SA 2.0, https://commons.wikimedia.org/w/index.php?curid=40847079, img73]
+
+Water observed in the tails of comets is synthesized through electrolysis of metal oxides and other complex chemicals. The solar wind is rich in protons that readily react with oxygen to produce water.
+
+
+
+
+
+Rogue Planets
+
+Just like comets roam the universe, there are planets that don’t belong to any solar system.
+
+When such planets enter an established solar system, forces are unleashed to either capture or eject it from the system. This can be understood in terms of what has already been said about orbits, meteorites and comets.
+
+First thing to note is that a rogue planet, although gravitationally attracted to other planets, and the central star, will have an electrically charged surface that makes direct collisions unlikely.
+
+We don’t have to worry about rogue planets crashing into Earth. However, that’s not to say that a close encounter with such a planet would be entirely harmless.
+
+At the very least, there will be a very strong ion wind associated with such an event. This will cause severe storms on Earth, way worse than anything anyone alive has ever experienced.
+
+If the encounter is sufficiently close, there will be a discharge between the two planets as they seek to equal out their charge difference. This will be extremely destructive, wiping out all life wherever the discharge hits. A valley will be carved into each of the two planets as the discharge moves along their surfaces.
+
+[Electric discharge between two planets, img74]
+
+The net result of this will be repulsion. The rogue planet will either be ejected from the solar system or captured by it.
+
+If captured, the newcomer will push and jockey for position. It will seek an orbit in harmony with the other planets. This may require other planets to change their orbits to allow for the newcomer.
+
+There will be chaos, but it will be relatively short lived. The combination of electrical repulsion and gravitational attraction acts like a shock absorber. The rogue planet will be rained in. It may not take more than a few decades to integrate the newcomer into the solar system.
+
+After a few thousand years, it will be as if the rogue planet has always been a member of the family. However, evidence of a violent past will remain.
+
+
+

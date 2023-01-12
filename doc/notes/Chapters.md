@@ -69,183 +69,57 @@ Electric current is the motion of charged particles, typically electrons, throug
 [Source (4 pages)](https://www.universeofparticles.com/electric-currents/)
 
 
+### Understanding Electric Currents Through the Faraday Effect
+Electric currents can be explained by the Faraday Effect, which shows that there is a direct relationship between magnetism and light. Magnetic fields fan out to the side, producing high and low pressure areas in the aether, and producing repelling or attracting forces. Different materials react differently to magnetic fields, and ferromagnetic materials can be induced with a permanent magnetic field, allowing them to be used for electric currents.
+[Source (5 pages)](https://www.universeofparticles.com/ferro-fluids/)
 
-### Ferro-Fluids
 
+### The Power of Induction: How Magnets Create Electric Currents
+This documentary video explores the power of induction, or the ability of magnets to create electric currents in wires. Using the right-hand rule of electromagnetism and the properties of polarized photons, this video explains how electric motors and generators work, how radio transmission is possible, and why Faraday cages can protect from electric and magnetic forces.
+[Source (4 pages)](https://www.universeofparticles.com/induction-of-currents-into-wires/)
 
-### The Faraday Effect
+### Exploring the Size of Photons
+In this documentary, we explore the size of photons and how it relates to their energy. We discuss the size of zero-point photons, radio-wave photons, visible light photons, x-rays, and gamma-rays, and how the size of these photons is related to their ability to pass through materials. We then use the slalom analogy to explain the phenomenon of refraction and diffraction in optics and how Snell's law can be used as evidence to support the idea that light is a particle and not a wave.
+[Source (3 pages)](https://www.universeofparticles.com/size-of-photons/)
 
+### The Double Slit Experiment: Exploring Wave-Like Properties of Matter
+The double slit experiment has been used to prove that not just photons, but all matter has wave-like properties. Pilot Wave Theory can be used to explain these properties. Zero-point particles form a standing wave and when a particle is sent through space it bobs along on that wave. The larger the particle, the less affected it is by the wave and the tighter the pattern observed at the detector. Neutrinos, photons, and gravity also influence the behavior of particles observed in the double slit experiment.
+[Source (4 pages)](https://www.universeofparticles.com/the-double-slit-experiment/)
 
-### The Magnetic Field
+### The Mystery of Red-Shifted Light
+Light from distant bodies is often red-shifted, meaning that it appears to be shifted towards the red end of the spectrum. This phenomenon has been used to infer that our universe is expanding, but could there be other explanations? This video looks at different theories, such as the tired light hypothesis and intrinsic red-shift, which suggest that the red-shift of light may be due to a loss of energy as photons are travelling through the universe, or due to the fact that young matter has less mass than older matter.
+[Source (4 pages)](https://www.universeofparticles.com/red-shift-of-light/)
 
+### How Mass Condensation Explains the Unusual Fossil Records
+Mass condensation is an interesting hypothesis that suggests that matter is becoming more massive over time. This process is driven by photons crashing into already existing matter, thereby increasing its mass. The fossil records show evidence of creatures that would be impossible in today's environment, due to the increased mass and gravity. This suggests that both inertia and gravity have increased over time, exactly as hypothesized by Halton Arp.
+[Source (4 pages)](https://www.universeofparticles.com/mass-condensation/)
 
-### Magnetic Materials
+### Exploring the Proton-Electron Atom and the Possibilities of Transmutations
+This document explores the proton-electron atom model and how it can explain radioactivity and transmutations such as nuclear fusion and fission. It also examines the concept of antimatter and how it can be explained by the same model. This model suggests that mass condensation onto the proton is the cause of radioactivity, and that transmutations can be achieved through the consumption or shedding of protons, electrons, or positrons.
+[Source (4 pages)](https://www.universeofparticles.com/atomic-nuclei/)
 
+### Hollow Planets - Exploring the Possibility of Our Planet's Structure
+This article explores the possibility that our planet Earth is hollow, and that this hollow structure could explain various phenomena such as gravity anomalies, the expansion of our planet, and the origin of water in the oceans. It argues that the potential difference between the ionosphere and the surface of the planet, combined with the possibility of a repelling electrical force at its centre, make a hollow structure a plausible option. Additionally, seismic evidence and NASA's measurements of Jupiter's core density suggest that hollow planets are indeed possible. Finally, the article proposes that the gravitational force is not only dependent on mass, but also on the electrical environment in which the force is made.
+[Source (5 pages)](https://www.universeofparticles.com/hollow-planets/)
 
-### Making a Permanent Magnet
+### Discovering the Stabilizing Force Behind Orbits
+This documentary highlights the importance of electric repulsion to the stability of orbits. It explains how electric repulsion works to keep our Moon and other astronomic bodies in stable orbits, and how it explains the circular shape of impact craters and the synthesis of water in comets. It also explains the consequences of rogue planets entering a solar system, and how electrical repulsion is the force that ultimately determines whether the rogue planet is captured or ejected.
+[Source (6 pages)](https://www.universeofparticles.com/stability-of-orbits/)
 
 
-### Induction of Currents into Wires
+### The Mystery of the Rogue Planet: Uncovering the Secrets of Valles Marineris
+Have you ever wondered why Mars has a massive scar across its surface? In this documentary, we uncover the secrets of Valles Marineris and explore the possibility that a rogue planet once roamed our solar system. We look at the evidence of the damage it caused on Mars, the Grand Canyon, and the asteroid belt, and hypothesize that the rogue planet was in fact Jupiter's daughter Venus.
+[Source (6 pages)](https://www.universeofparticles.com/valles-marineris/)
 
 
-### Motors and Generators
+### The Electric Universe: A New Perspective
+This book explores the idea that electricity is the driving force behind the universe, rather than gravity as is commonly believed. It examines the evidence for electric plasma currents in space, and suggests that supernovas are the births of stars and planets, rather than their deaths. It further suggests that our Sun is powered by electricity, and that stars are simply large planets with thick mineral-rich atmospheres. Lastly, it proposes a life-cycle of matter, which solves the problem of heat death through entropy. Together, these ideas offer a new perspective on the universe and its workings.
+[Source (7 pages)](https://www.universeofparticles.com/the-electric-universe/)
 
 
-### Radio Transmission
-
-
-### The Faraday Cage
-
-
-### Size of Photons
-
-
-### Light Travelling Through a Transparent Medium
-
-
-### Snell’s Law
-
-
-### The Double Slit Experiment
-
-
-### Pilot Wave Theory
-
-
-### Neutrinos, Photons and Space
-
-
-### Neutrinos, Photons and Gravity
-
-
-### Red-Shift of Light
-
-
-### Tired Light Hypothesis
-
-
-### Intrinsic Red-Shift
-
-
-### Deuterium Blue-Shift
-
-
-### Mass Condensation
-
-
-### Darwin’s Law
-
-
-### Impossible Dinosaurs
-
-
-### The Quetzalcoatlus
-
-
-### Atomic Nuclei
-
-
-### Radioactivity
-
-
-### Transmutations
-
-
-### Antimatter
-
-
-### Hollow Planets
-
-
-### Gravity and Capacitance
-
-
-### Expanding Planets
-
-
-### Gravity Anomalies
-
-
-### Origin of Water in the Oceans
-
-
-### Stability of Orbits
-
-
-### Meteorites
-
-
-### Impact Craters
-
-
-### Moon Craters
-
-
-### Comets
-
-
-### Rogue Planets
-
-
-### Valles Marineris
-
-
-### Grand Canyon
-
-
-### Exploding Planets
-
-
-### Ceres, Phaeton and the Asteroid Belt
-
-
-### Jupiter’s Children
-
-
-### Jupiter’s Daughter
-
-
-### The Electric Universe
-
-
-### Currents in Space
-
-
-### Birth of Stars and Planets
-
-
-### The Electric Sun
-
-
-### Stars as Electrical Accelerators
-
-
-### Supernovas as Endothermic Heat Sinks
-
-
-### Life-Cycle of Matter
-
-
-### The Eternal Universe
-
-
-### Distance
-
-
-### Time
-
-
-### Energy
-
-
-### Inertia
-
-
-### Time, Energy and Speed
-
-
-### The Mercury Anomaly
-
+### The Eternal Universe: Exploring an Alternative Model of Physics
+This book explores an alternative model of physics in which electricity, rather than gravity, is the main force in the universe. It proposes that distance is a relative measure of inertial matter, energy is stored as size in subatomic particles, and time slows down for particles with increased energy. The book also explains the Mercury Anomaly, the neutrino that appears when a free neutron decays, and the idea that the universe is an eternal ecosystem with no start and no end.
+[Source (7 pages)](https://www.universeofparticles.com/the-eternal-universe/)
 
 
 

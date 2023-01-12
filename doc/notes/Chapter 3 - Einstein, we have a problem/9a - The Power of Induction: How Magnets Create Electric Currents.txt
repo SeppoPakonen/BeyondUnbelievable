@@ -1,0 +1,100 @@
+Url: https://www.universeofparticles.com/induction-of-currents-into-wires/
+Format: e-book
+Text (multiline):
+
+Induction of Currents into Wires
+
+To illustrate how magnets can be used to induce electric current into wires, we can start by imagining a copper wire connected to an ammeter to measure current.
+
+If we place this wire at rest on top of the north or south pole of a magnet, nothing happens. There’s no measurable effect if nothing moves.
+
+However, if either the magnet or the wire is moved in such a way that the copper wire cuts into the stream of polarized photons coming out of the magnet, a current is registered.
+
+[Induction of current into wire, img31]
+
+This can be explained entirely in terms of polarized zero-point photons interacting with electrons in the wire.
+
+Moving the wire into the magnetic field, as illustrated above, makes the positive orbs of the spinning photons hook into the side of electrons in the wire. The electrons move to the left. A current towards the right is thus induced into the wire.
+
+The current moves in the direction dictated by the spin of the negative orbs.
+
+Move the wire in the opposite direction and the spinning photons hook into the electrons from the opposite side. The current moves the other way.
+
+Flipping the magnet around so that it points down will likewise send the current in the opposite direction.
+
+The relationship between motion of a wire, magnetic field, and current induced is always the same.
+
+This is the right hand rule of electromagnetism, which states that an open right hand with thumb perpendicular to fingers can be used to determine the direction of induced current.
+
+[Right hand rule of electromagnetism, img32]
+
+Let the thumb be the direction of motion of a positive charge, let the fingers be the direction of the magnetic field lines. Then the palm of the hand becomes the direction of the induced force.
+
+In the case of electric induction, the wire is the charge in motion and the induced force is the current.
+
+In the case of an electric motor, the current is the charge in motion and the induced force is the generated mechanical motion.
+
+
+
+
+Motors and Generators
+
+Now that we’ve seen how electric currents produce magnetism, and magnetism produce electricity, we can make electric motors and generators.
+
+Kinetic energy of a waterfall or other energy source can be turned into electricity by a generator. The electricity can be transported by a copper wire to a distant location. An electric motor can in turn be set moving.
+
+[Circuit diagram of generator and motor, img33]
+
+In the above circuit diagram, we have a generator consisting of a spinning magnet. This induces an alternating current into the live wire by sending electrons moving one way when the north pole of the magnet sweeps past the wire, and sending electrons moving the opposite direction when the south pole sweeps past the wire.
+
+As long as the switch to the electric motor is open, nothing much happens. The electrons in the wire are pushed back and forth, but there’s no load on the generator. Very little energy is consumed.
+
+However, once the switch is closed, electricity starts flowing past the magnet in the motor. The magnetic field induced by the free flow of electrons sets the magnet in the motor spinning.
+
+The gaps between magnet and wire for both generator and motor are bridged by strong magnetic fields. The load on the motor is thus passed onto the generator.
+
+
+
+
+Radio Transmission
+
+When an alternating current is sent up and down an antenna, an alternating magnetic field is created around the antenna in accordance with Ampère’s right hand grip rule.
+
+When the current is going up the antenna, photons are sent off spinning one way. When the current is going down the antenna, photons are sent off spinning the other way.
+
+The polarized photons rush off in all directions at the speed of light.
+
+When some of these photons hit a receiving antenna at a distance, they induce electricity into it. The received signal matches the transmitted signal. It can therefore be used to reproduce the transmitted message.
+
+[Radio transmission, img34]
+
+This is how radio transmission works.
+
+It should be noted that this can only work if the photons crossing the space between the transmitter and the receiver carry some energy with them. This is because electrons have inertia. It takes energy together with spin to set them in motion.
+
+Since zero-point photons carry no energy, we know that the photons used in radio transmission cannot be zero-point photons. Radio transmitters don’t only set zero-point photons spinning, they pump their energy up too.
+
+The energy required is very small. Radio-wave photons are the least energetic of all detectable photons. They are just one step up in energy from zero-point photons.
+
+Note that while electric generators and motors work by creating strong magnetic fields to bridge the gaps between components, radio transmitters work by giving energy to polarized photons. The large distance between transmitter and receiver makes it necessary to send energy together with the photons involved.
+
+The tiny gaps between stators and rotors in generators and motors are bridged by magnetic fields. No added energy is required for this to work since magnetic fields are nothing but low and high pressure regions in the aether.
+
+
+
+
+The Faraday Cage
+
+A Faraday cage is a metal casing used to protect whatever is inside it from electric and magnetic forces. A well designed Faraday cage can protect a person from lightning as well as external radiation.
+
+It isn’t a perfect insulator. Radio-waves and some magnetic fields can penetrate a Faraday cage with various degrees of attenuation. High energy photons such as x-rays are largely unaffected by a Faraday cage.
+
+In the case of electricity, Faraday cages are easy to explain. The metal of the cage leads the electricity that strikes the cage to ground, without going through the interior of the cage. The cage is a sufficiently good conductor to take care of the electricity, and lead it safely to ground.
+
+In the case of low energy radiation, the cage acts like a receiving antenna. It transforms the energy of radio-waves to electricity, which in turn is led to ground.
+
+[Faraday cage protecting its interior by leading electricity to ground, img35]
+
+Such a cage will only protect against x-rays to the extent that it is built from a material sufficiently impregnable to high energy radiation.
+
+The fact that low energy radiation is more efficiently shielded by a Faraday cage than high energy radiation can be explained in terms of momentum and pilot waves.

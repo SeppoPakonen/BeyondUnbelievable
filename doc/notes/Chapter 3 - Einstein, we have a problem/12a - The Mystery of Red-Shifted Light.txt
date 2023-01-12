@@ -1,0 +1,105 @@
+Url: https://www.universeofparticles.com/red-shift-of-light/
+Format: e-book
+Text (multiline):
+
+Red-Shift of Light
+
+The fact that photons can’t speed up or slow down explains why light escaping massive bodies turn red. It also explains why bodies moving away from us appear redder than bodies moving towards us.
+
+The way to think about this is to first consider ordinary matter, and then apply what we know to be true for such bodies to light.
+
+In cases where ordinary matter would absorb energy by speeding up, light will turn bluer. In cases where ordinary matter would loose energy and slow down, light will turn redder.
+
+Since a ball tossed towards us from an oncoming object will move faster than a ball tossed towards us from a receding body, we know that photons reflected by a body approaching us will be bluer than photons reflected by a receding body.
+
+[Green photons reflected by body moving from right to left, img46]
+
+Keep in mind that all photons can be considered to be reflected, also those that are excited by a lamp or radio transmitter. Photons originate in the aether, and are therefore reflected by bodies, regardless of whether they are exited or not.
+
+Note also that it doesn’t matter whether it’s the observer or the observed object that moves.
+
+If the observer travels towards an object, the photons will be registered as bluer than if the observer travels away from the object.
+
+[Green photons registered by detector moving from right to left, img47]
+
+This is because the observer adds energy to the interaction with the approaching photon when moving towards it. Conversely, the observer subtracts energy from the interaction when moving away from a photon.
+
+Red-shift and blue-shift of light is therefore entirely about relative motion. It doesn’t matter what energy level the photon has while traversing the space between the observer and the observed. All that matters is relative motion. If the observer and the observed travel at identical speeds, no net red-shift will be detected, even if both travel at a tremendous speed relative to some other object.
+
+
+
+
+Tired Light Hypothesis
+
+Modern astronomy uses red-shift to calculate the speed with which distant bodies move, and since all distant objects display a red-shift, the conclusion is that our universe is expanding.
+
+However, there are other ways to interpret red-shift in which a different conclusion can be reached.
+
+The tired light hypothesis is one such interpretation. It attributes red-shift to a loss of energy by photons travelling across vast distances. The idea is that photons brush along dust and atoms on their way across the universe. They yield a bit of energy to the environment they travel through.
+
+The photons loose energy. As a result, they become redder.
+
+The objection to this idea is that dust and atoms are so large that they will cause scatter. The fact that images from distant objects are sharp and crisp exclude the possibility of energy loss to such large particles.
+
+However, if our universe is full of zero-point particles, then scatter is no longer a problem. Zero-point photons are too small to cause the much larger visible photons to scatter.
+
+[Photon loosing energy as it moves through the aether, img48]
+
+The red-shift observed in astronomy may not be due to an expanding universe. It may instead be due to an aether of zero-point particles.
+
+The background radiation attributed to the big bang may in turn be zero-point photons heated enough by visible light to give the universe a uniform glow.
+
+If so, we no longer need to invoke a big bang or an expanding universe to explain the observed red-shift and background radiation. It can all be explained by the zero-point aether.
+
+
+
+
+Intrinsic Red-Shift
+
+Intrinsic red-shift is an idea proposed by the astronomer Halton Arp in order to explain the red-shift associated with quasars.
+
+Quasars are young galaxies that appear to be physically linked to older galaxies. In some cases, a visible connection can be seen, like an umbilical cord, connecting the quasar to its parent galaxy.
+
+However, the tremendous red-shift associated with quasars pose a problem for those trying to interpret the visual data.
+
+[Quasar with red-shifted hydrogen spectrum, connected to parent galaxy, img49]
+
+Using red-shift as a measure of distance, we end up with quasars being extremely distant.
+
+This conflicts with their visible connection to galaxies that are estimated to be much closer to us.
+
+Another problem with quasars is that they are relatively bright. If they are as distant as they appear to be based on red-shift estimates, they must be mindbogglingly energetic.
+
+To get around this problem, Halton Arp proposed that quasars are made up of matter that is less massive than matter found in our solar system.
+
+Hydrogen in quasars are lighter than hydrogen on Earth. The light spectrum of hydrogen in quasars is therefore red-shifted relative to the light spectrum of hydrogen found on our planet.
+
+The red-shifts seen in quasars are not indicative of distance, but of age.
+
+Matter starts out with little mass. As time progresses, mass condenses onto matter, making it gradually more heavy. Light from young matter is red compared to its older, heavier counterpart.
+
+To see that this is a valid proposition, we can compare the light spectrum of hydrogen to that of its heavier isotope, deuterium.
+
+
+
+
+Deuterium Blue-Shift
+
+The chemical composition of distant objects can be determined by analysing their light spectra.
+
+Atoms don’t emit light in a continuous spectrum from red to blue. There are specific energies for which atoms absorb and emit light. The pattern is distinct and unique to each atom in the periodic table. It’s the shape of this spectrum that reveals the chemical composition of distant objects.
+
+If the light spectrum is shifted towards the red, we have what we call red-shift. If it’s shifted towards the blue end, we have blue-shift.
+
+The shape of a light spectrum is determined by chemical properties only. The various isotopes of an atom all have the same shape. What distinguishes one isotope from another is its blue-shift. Heavier versions of an atom emit bluer light.
+Hydrogen emitting redder light than deuterium
+
+[img50]
+
+In the case of hydrogen, deuterium has a neutron attached to its nucleus. It’s therefore twice as massive as regular hydrogen, which has a sole proton in its nucleus. Chemically, the two isotopes are identical. However, their light spectra can be used to tell them apart.
+
+Deuterium can be identified by its blue-shifted spectrum. It’s shifted towards the blue end of the spectrum by about 2 angstrom. This is how we know that the water in the tails of comets are rich in deuterium, and therefore not the source of water on our planet, which contains little deuterium.
+
+All of this can be confirmed in a laboratory. The heavier the atomic nucleus is for a given element, the bluer is its light spectrum.
+
+Halton Arp’s premise about light spectra and the mass of atoms is therefore correct.

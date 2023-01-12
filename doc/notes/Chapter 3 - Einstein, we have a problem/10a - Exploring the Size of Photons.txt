@@ -1,0 +1,105 @@
+Url: https://www.universeofparticles.com/size-of-photons/
+Format: e-book
+Text (multiline):
+
+Size of Photons
+
+If zero-point neutrinos make up the electric force that keeps molecules from flying apart, they must be very small and also very abundant. They must be everywhere zipping back and forth, communicating the electric force on their way from one place to another.
+
+Similarly, zero-point photons must be both abundant and small in order to be available inside materials to be kicked up in energy, and to communicate the magnetic force in the presence of moving charges.
+
+These particles, which constitute the aether, must be the smallest of all particles. Being undetectable, except through their manifestation as force, they must also be without energy, or with so little energy that they can’t be detected.
+
+One up in energy from zero-point photons, we have radio-wave photons. These particles are known to pass through most materials. Cell phones work inside buildings, cars and elevators. Radio-wave photons are almost as good at passing through materials as zero-point particles.
+
+Radio-wave photons appear to be only a little bigger than zero-point photons.
+
+Then there’s visible light. These photons have more energy than radio-wave photons. The fact that they have problems going through most materials suggests to us that they are larger.
+
+The most energetic photons are x-rays and gamma-rays. These are able to go through many materials. However, they are destructive. They go through walls like bullets through a net. They may not hit anything, in which case no damage is done, or they hit something and cause damage.
+
+Unlike radio-waves, x-rays rarely change their direction on travelling through a material. They get through it in a straight line or they are stopped by hitting into something on their way. There is little scatter.
+
+This is why x-rays are used to make pictures of bones and the like inside our bodies. They produce nice sharp images, shaded according to how many of the x-ray photons were stopped on their way.
+
+However, their destructive nature prevent us from taking such pictures frequently. They can cause cancer and radiation sickness.
+
+Even more dangerous are gamma-rays. They are the most energetic of all photons. So energetic that they sometimes pop, in which case they make the transition from being photons to being an electron-positron pair.
+
+It’s as if gamma-ray photons are so large that they cannot be made larger. Any collision that adds energy to a gamma-ray photon causes it to pop.
+
+From this, we can conclude that the energy of photons are directly related to their size. The more energetic a photon is, the bigger it is.
+
+As we will see, this can be used to explain both refraction and diffraction in optics.
+
+[Neutrino, zero-point photon, radio-wave photon, visible photon, gamma-ray photon and electron, img36]
+
+
+
+
+Light Travelling Through a Transparent Medium
+
+Transparent materials such as glass and water have the ability to let light through as if they were made of nothing. Yet some transparent materials, such as glass, are very dense. They are full of atoms.
+
+For light to pass through such material without scatter, every photon has to meander through the material in a fashion identical to every other photon.
+
+A way to envision this is to think of photons as slalom skiers, and the glass as a slope full of evenly spaced poles in all directions, with the poles being atoms.
+
+When a photon enters such a material, it starts with a half roll past the first atom. Then it continues with a full roll past every subsequent atom until it makes a final half roll past the last atom before exiting.
+
+The photon may make a first half roll to the left or the right. It doesn’t matter. However, the next roll has to be in the other direction, and the next roll after that has to be opposite to the previous, and so on all the way through the material.
+
+For photons entering the material at an angle, the first half roll will either be larger or smaller than average, depending on the angle of entry and which side of the first atom they enter. However, this is perfectly balanced on exit with a corresponding deviation from the average.
+
+This will result in all photons leaving the material in the exact same direction that they entered it, provided the first row of atoms are parallel to the last row of atoms.
+
+Since photons travel at the exact same speed regardless of their size. They always travel at the speed of light. However, the length of the path travelled by a small photon and a big photon will not be identical.
+
+Small photons roll past atoms with their geometrical centre closer to the atom than the bigger photons, so even when large photons and small photons take the same path through a transparent medium, the smaller ones end up travelling a shorter distance.
+
+Send a red photon and a blue photon through a piece of glass at the exact same time, and the red one ends up exiting the glass ahead of the blue one. The red one has less energy than the blue one. It’s smaller, and is therefore rolling past the atoms in the glass at a shorter distance from the atoms’ centre than the blue one.
+
+[Red and blue photons racing through a piece of glass, img37]
+
+This explains why blue light takes more time to travel through transparent media than red light.
+
+It also explains why blue light refracts more through a prism than red light. It explains why a mix of various size photons, known to us as white light, get split into all the colours of the rainbow, with blue light always at the most acute angle from the prism, and red light at the least acute angle.
+
+[Photons hitting a wall after travelling through a prism, img38]
+
+Being larger than red photons, blue photons take more time rolling past the first atom. This makes the initial half roll more acute for blue photons than red photons. It also makes the full rolls and the final half roll more acute.
+
+The initial and final half roll of photons are precisely defined by the photons’ size compared to the atoms in the medium. The bigger the photons, the more acute are their half rolls into and out of the prism.
+
+Note that the photons don’t divert from each other in their overall change in direction on entering a medium. Photons of different colours race through the medium in parallel.
+
+It isn’t until the final half roll that diffraction happens. If the final half roll is back into the original direction, as is the case with plain glass sheets, the difference in original half roll entering the glass is cancelled out by the difference in half roll on exiting the glass.
+
+However, if the final half roll is to the same side as the original half roll on entering the glass, as is the case in a prism, the original angle doesn’t cancel out. It gets added to, and there’s diffraction.
+
+[Diffraction happens as photons exit the media, and only when half rolls do not cancel on exit, img39]
+
+This is why white light remain sharp and focused even through the thickest of glass sheets, while the smallest of prisms split white light just as well as big ones.
+
+Note also that this has nothing to do with wavelength. All that matters is the size of the photons.
+
+
+
+
+Snell’s Law
+
+Snell’s law is a formula used to describe the relationship between the angles of incidence and refraction, when referring to waves passing through a boundary between two different isotropic media, such as water, glass, or air.
+
+This formula is easy to establish in a wave lab with waves passing between deep and shallow water.
+
+Since white light splits into different colours when passed through a prism, Snell’s law is often used as if light is a wave phenomenon.
+
+However, light doesn’t in fact act like waves. White light doesn’t split into different colours when entering a prism, as Snell’s law would demand if white light was made up of many different waves. White light splits only at the exit.
+
+If it was any other way, we would have noticed this a long time ago. Plane glass sheets would have red light come out in a different place than blue light. Thick glass sheets, such as those used in large aquariums, would have multi-coloured fishes look like big smudges when viewed at an angle.
+
+The fact that plane glass sheets don’t smudge images, even when viewed at an angle, proves that light doesn’t split on entry into glass. It splits only on exit, and only if the angle of exit is different from the angle of entry.
+
+[Red and blue light travelling through a plane glass sheet and a prism, img40]
+
+Snell’s law can therefore be used as supporting evidence for the position that light isn’t a wave phenomenon, but particles. The slalom analogy is better at explaining what’s going on than the wave analogy.

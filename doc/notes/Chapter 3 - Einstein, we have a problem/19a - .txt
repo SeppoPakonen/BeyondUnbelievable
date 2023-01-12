@@ -1,0 +1,166 @@
+Url: https://www.universeofparticles.com/the-eternal-universe/
+Format: e-book
+Text (multiline):
+
+
+The Eternal Universe
+
+Once we accept the idea that electricity, rather than gravity, is the main force in the universe, many things become easier to explain.
+
+We no longer need a super-dense crystal at the core of our planet.
+
+There’s no need for dark energy, dark matter, black holes or a big bang.
+
+There’s no need for a beginning or an end to the universe.
+
+Instead, we have an eternal universe with no start and no end. Some areas are young. Others are old. Creation and destruction happen continuously and everywhere.
+
+[Galaxy cluster IDCS J1426 By ESA/Hubble, CC BY 4.0, https://commons.wikimedia.org/w/index.php?curid=46299179, img90]
+
+Where exactly our region of the universe is in this cycle is hard to say, but I suspect we’re somewhere in the middle, perhaps a little closer to the end than the start.
+
+An interesting consequence of an eternal universe is that it’s almost certainly teaming with life. The universe as a whole is likely to be a giant ecosystem, complete with mechanisms to seed young planets and move lifeforms from one place to another.
+
+
+
+
+
+Distance
+
+When it comes to the four physical quantities of distance, time, energy and inertia, it’s tempting to treat them as if they are somehow outside of physics. We can imagine a god in the heavens holding a ruler and a clock, distributing energy and bestowing inertia onto matter.
+
+However, that wouldn’t be physics, and this is a book about physics, so we must find other ways to define these quantities if we are to include them in our model.
+
+The way we can do this is as follows:
+
+To measure distance, we need a ruler of some kind. In our daily lives, the ruler we use is ourselves. We measure everything relative to our own size.
+
+However, when we want to be precise about our measurements, we use a carefully crafted ruler. Such a ruler is something we can carry around with us. Its length doesn’t change and it doesn’t fly about on its own.
+
+The smallest possible ruler we can have is therefore the electron. Things smaller than an electron move about at the speed of light. They can’t be used as rulers.
+
+[The electron as a three dimensional ruler, img91]
+
+Distance is in other word a relative measure of inertial matter.
+
+
+
+
+
+Time
+
+To measure time, we need a clock. We all have our own biological clock, and that’s what we normally use. However, when we want to be precise, we build ourselves an instrument.
+
+The way a clock works is that it takes something that moves at a predictable speed and make it give off a tick every time it has moved a precise distance. The smallest possible time unit we can register is in other words a function of the smallest possible ruler and the fastest possible speed.
+
+The smallest possible time unit is therefore the time it takes a photon to cross an electron. If something happens faster than this, the time laps cannot be registered in any way.
+
+An instantaneous event is anything that happens faster than it takes a photon to cross an electron.
+
+[The electron as a clock, img92]
+
+
+
+
+
+Energy
+
+We have on several occasions in this book noted the relationship between energy and size of particles. Large photons carry more energy than small ones. Electrons carry more energy than photons, etc. I will therefore propose that energy is size at the subatomic.
+
+[The bigger the particle, the more energy it carries, img93]
+
+It isn’t the speed of particles that carry energy. It’s their size. When we accelerate a particle, or lift it higher, it grows in size by a tiny bit.
+
+It should be noted that this definition of energy is compatible with the principle of mass-energy equivalence, popularly known as E = mc².
+
+
+
+
+
+Inertia
+
+Inertia is a resistance to change in energy. The more massive something is, the harder we have to push to change its speed or direction. There’s a time delay in the energy transfer.
+
+This is because energy transfers are about readjusting sizes of particles. For an object to change its speed or direction, all its particles have to change. For large objects, this requires a lot of time.
+
+[Big ship, big inertia By Wmeinhart - Foto wurde mit einem Panoramaprogramm aus drei Fotos zusammengesetzt, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=124261, img94]
+
+Inertia is the time delay registered when energies of particles are changed or readjusted.
+
+
+
+
+
+Time, Energy and Speed
+
+If energy is stored as size in subatomic particles, and the rate of time is related to the size of these same particles, then time can be expected to slow down for any particle that experiences an increase in energy.
+
+This is because the “electron-clock” is bigger, and therefore slower.
+
+[Bigger electron = longer distance for photon to travel = slower time, img95]
+
+Observed from outside, the natural processes associated with a particle with increased energy will appear to slow down.
+
+However, there is more going on than just a swelling of matter when speeds are involved. At the speed of light, time comes to a halt. If this is entirely due to a swelling of matter, then matter will have to be infinitely large at such speeds.
+
+The solution to this lies in considering what it means for a photon to cross an electron. If this means a round-trip, either back and forth, or around the electron, we find the answer to the problem.
+
+When a photon crosses an electron in motion, it does so faster in one direction than the other. The relative speed going against the electron is the speed of the photon plus the speed of the electron. The relative speed going with the electron is the speed of the photon minus the speed of the electron.
+
+[Time slows down due to vector sum of speeds, img96]
+
+The overall round-trip slows down for particles in motion, even if there’s no swelling. At the speed of light, time stops completely because the leg of the journey going with the electron takes for ever to complete.
+
+
+
+
+
+The Mercury Anomaly
+
+Mercury makes its rounds around the Sun a little faster than predicted by Newton. This can be seen in the precession of Mercury’s orbit which is measured to be 5600 seconds of arc per century, some 43 arc seconds more than Newton’s formula predicts.
+
+This is currently explained using a formula in which time and space are curved. However, this can also be explained using the physics laid out in this book.
+
+The only additional requirement to those already presented is for inertial particles to be hollow and allowing for the aether of zero-point particles to flow freely into and out of them.
+
+With this addition, we get electrical pressure on the inside of electrons and protons. Zero-point neutrinos will bounce about on the inside of open state particles.
+
+The precise size of a particle in the open state is no longer only dependent on the energy it’s carrying, but also dependent on the availability of neutrinos.
+
+In regions of space where there’s an abundance of neutrinos, inertial particles will be larger than in regions with fewer neutrinos.
+
+When we combine this with the fact that zero point photons are dielectric, and therefore more abundant close to massive objects, we get that particles in the open state are smaller in such regions.
+
+Zero-point photons close to massive bodies supplant neutrinos, making neutrinos relatively more scarce.
+
+With particles in the open state being smaller closer to massive bodies, we get that our “electron clock” goes faster.
+
+[The “electron clock” on Earth is bigger than the one on Mercury, img97]
+
+Time on Earth goes slower than time on Mercury, not because time-space is curved, but because particles of inertial matter are smaller on Mercury than on Earth.
+
+Using a clock on Earth to measure Mercury’s orbit, we find that Mercury takes the rounds a little faster than predicted by Newton’s formula. However, if we use a clock on Mercury, things will be exactly as predicted. Relative to a clock on Mercury, it’s all the other planets that are too slow.
+
+An interesting consequence of this is that energy is less on Mercury than on Earth. However, this too is only detectable for an observer on Earth, looking at experiments taking place on Mercury.
+
+Another interesting side to this is that it gives us a way to explain the neutrino that appears when a free neutron decays into a proton, an electron and a neutrino.
+
+
+
+
+
+
+Conclusion
+
+Starting off with three particle quanta and the idea that nothing happens without direct physical interaction, we have successfully laid out a physics in which everything from forces and optics to distances, time and energy are explained.
+
+In this physics, there’s no need for any mysterious action at a distance or undetermined state of things. Uncertainty is purely a function of complexity.
+
+Nor is there any need for a curved space-time. Instead, we have particles interacting with other particles.
+
+This isn’t to say that the physics laid out in this book is how things necessarily must be. Things may be very different. All we’ve demonstrated is that there are more than one way to explain things.
+
+[The Necker cube and Rubin vase can be perceived in more than one way By Alan De Smet at English Wikipedia - Transferred from en.wikipedia to Commons., Public Domain, https://commons.wikimedia.org/w/index.php?curid=2428267, img98]
+
+My hope for this book is that it will serve as inspiration and as a reference for those seeking to find simpler and more intuitive ways to explain the inner workings of the universe than what modern physics is currently presenting as truth.
+
