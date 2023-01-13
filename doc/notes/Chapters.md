@@ -150,27 +150,45 @@ In this part, Matt Kirkland and his student examine how solar wind speed, relati
 [44:00](https://youtu.be/rEWoPzaDmOA?t=2639)
 
 
-### Goverment doesn't like
+### Goverment
 
-#### Chemtrails
+#### In the 70s, it was still about coming ice age
+[Source](https://www.washingtonpolicy.org/publications/detail/today-its-global-warming-in-the-70s-it-was-the-coming-ice-age)
+[Source](https://rumble.com/v1h3nhl-climate-experts-believe-the-next-ice-age-is-on-its-way-1978.html)
 
-### Or government likes?
+##### The it changed
+[Source](https://rumble.com/v22ya6a-whatever-happened-to-the-coming-ice-age.html)
 
-#### Secret research for upcoming cold climate?
+##### But it's on again
+[Source](http://www.theregister.co.uk/2011/06/14/ice_age/)
+
+#### The chaos is unacceptable
+- green ideology enables a never seen power grab
+	- it allows a lie, that individual's choices matters, which "empowers" them to their political agenda
+
+[Source](https://www.youtube.com/watch?v=GnnTO4lMtKA)
+[Source](https://www.bitchute.com/video/2JRfzTyBgq2Q/)
+[Source](https://www.bitchute.com/video/mADjkVUoEfTA/)
+[Source](https://www.bitchute.com/video/XDro88DLwvuw/)
+[Source](https://www.bitchute.com/video/Ne4R9KrQtQo/)
+
+#### Chemtrails and how it's all connected
+[Source](https://www.bitchute.com/video/3gatkAREjoK5/)
+
+##### Secret research for upcoming cold climate
+[Source](https://www.globalresearch.ca/spain-admits-spraying-deadly-chemtrails-part-secret-un-program-fight-covid-19/5788746)
+[Source](https://www.globalresearch.ca/weather-warfare/5795319/5795319)
+[Source](https://www.globalresearch.ca/selected-articles-weather-modification-as-us-military-strategy/5614494)
+[Source](https://www.globalresearch.ca/military-weather-modification-chemtrails-atmospheric-geoengineering-and-environmental-warfare/5356630)
 
 
 
+## Chapter 5: But what about us?
 
-
-
-
-## Chapter "But what about us?"
-
-#### Crabs, of course
+#### Crabs, of course x)
 [Video](https://www.youtube.com/watch?v=wvfR3XLXPvw)
 
-
-#### Like crabs here, but in space
+#### Like crabs here, but in space xD
 [Video](https://futurism.com/scientists-humans-universe)
 
 #### Don't forget the electricity
@@ -184,51 +202,58 @@ In this part, Matt Kirkland and his student examine how solar wind speed, relati
 [Video](https://www.youtube.com/watch?v=8-ftNe7JcsY)
 
 #### Hold on... it's not magic
-Book: David Reich - Who We Are and How We Got Here
+Source book: David Reich - Who We Are and How We Got Here
 
-#### Like a "random forest multidimension in your brain, with consciousness link"
-
-##### You are syncing your brain's holograph memory with others and listening the resonance
-
-
-
+#### CIA full report on Brain Synchronization
+- Like a "random forest multidimension in your brain, with consciousness link"
+- You are syncing your brain's holograph memory with others and listening the resonance
+[Source](https://www.youtube.com/watch?v=HOFq3ruef7I)
 
 
 
-
-
-
-## Chapter "But wait, there's more, and this time you will hate it"
+## Chapter 6: But wait, there's more, and this time you will hate it
 
 ### How it was in reality
 [Book](https://chronologia.org/en/how_it_was/index.html)
 
-#### Carbon dating is a fraud
+#### Are radiocarbon datings to be trusted?
+- we'll default to no
+[Book page 74](https://chronologia.org/en/seven/1N01-EN-071-092.pdf)
 
 #### Similarity of temple architecture
+[Book page 526](https://chronologia.org/en/seven/4N14-EN-14.pdf)
 [Popsci article](https://thegr8wall.wordpress.com/2013/03/02/similarities-in-ancient-hindu-and-latin-american-architecture/)
-
 
 ### Pyramid "stones" have organic matter inside them
 [Scientific article](https://www.spectroscopyeurope.com/article/are-carbon-micro-clusters-khufu-pyramid-blocks-organic-origin-pixe-and-pige-reveal)
 [Pop science](https://beta.nsf.gov/news/surprising-truth-behind-construction-great)
 [Nice helpful article](http://www.ce.memphis.edu/1101/interesting_stuff/pyramids_in_concrete.html)
 
-### You are at the wrong side of war
+### You are at the wrong side of war: Muscovite Tartary divided between the Romanovs and the United States
+[Source page 303](https://chronologia.org/en/seven/4N12-EN-4.pdf)
 
-#### Historical tensions won't get released and you will be happy about it
+#### Russia vs USA tension is based on history falsification
+- It is very odd indeed that the American government had shown no interest in the neighbouring territories until the late 1700 – early 1800 century, when it did develop such an interest all of a sudden, and started a very rapid colonization. Could it be owing to the fact that the territory in question became “no man’s land” legally, and thus needed to be colonised as quickly as humanly possible.
+- resistance was real: "map depicts the Californian peninsula as an island, which means that the Horde had prohibited Europeans entry to this part of the world in the early XVIII – before the “revolt of Pougachev”."
+[Source page 306](https://chronologia.org/en/seven/4N12-EN-5.pdf)
 
 #### You are repeating old conflicts until you break free
+- Party of economic control always attack with deception and hidden hatred
+	- Abraham Lincoln was a tyrant
+[Source](https://www.bitchute.com/video/KDobr0uRb6US/)
 
-#### Russia vs USA tension is based on history falsification and evil financial empire of USA
+#### Historical tensions won't get released
+- Geopolitical reasons for Ukraine conflict and US new cold war on Russia & China
+[Source](https://www.youtube.com/watch?v=nyitwFjX0GI)
 
-##### It is supported by fake ethical values based on fake mainstream history, which confuses absolutely everyone
+#### Discussion on fake world history
+[Source](https://www.bitchute.com/video/4V2yD2m7o7JR/)
+[Source](https://www.bitchute.com/video/agFyVwIqRgb6/)
 
 
 
 
-
-## Chapter "Unbelieveable, but with friends topside"
+## Chapter 7: Unbelieveable, but with friends topside
 
 ### Crop circles
 
@@ -284,7 +309,7 @@ Book: David Reich - Who We Are and How We Got Here
 
 
 
-## Chapter "Don't freak out, but..."
+## Chapter 8: Don't freak out, but...
 
 ### Leaks everywhere
 
@@ -313,7 +338,7 @@ Book: David Reich - Who We Are and How We Got Here
 
 
 
-## Chapter "Can we go now?"
+## Chapter 9: Can we go now?
 
 ### Keeping network hot
 
