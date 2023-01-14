@@ -14,6 +14,11 @@ Birkeland Currents offer an alternative explanation to the failed attempts of as
 
 
 
+
+
+
+
+
 ## Chapter 2: Rebooting a planet
 
 ### Uncovering the Surprises of Space Exploration
@@ -127,6 +132,7 @@ This book explores an alternative model of physics in which electricity, rather 
 
 
 
+
 ## Chapter 4: Space based climate
 
 ### The Interaction Between Solar Activity and Climate Change
@@ -183,6 +189,13 @@ In this part, Matt Kirkland and his student examine how solar wind speed, relati
 
 
 
+
+
+
+
+
+
+
 ## Chapter 5: But what about us?
 
 #### Crabs, of course x)
@@ -208,6 +221,13 @@ Source book: David Reich - Who We Are and How We Got Here
 - Like a "random forest multidimension in your brain, with consciousness link"
 - You are syncing your brain's holograph memory with others and listening the resonance
 [Source](https://www.youtube.com/watch?v=HOFq3ruef7I)
+
+
+
+
+
+
+
 
 
 
@@ -252,6 +272,11 @@ Source book: David Reich - Who We Are and How We Got Here
 
 
 
+
+
+
+
+
 ## Chapter 7: Unbelieveable, but with friends topside
 
 ### Crop circles
@@ -287,7 +312,6 @@ Source book: David Reich - Who We Are and How We Got Here
 
 #### Speculation
 [Source](https://www.bitchute.com/video/Ht73GBWgEQ8/)
-[Source](https://www.bitchute.com/video/dJAhewMLtQtu/)
 [Source](https://www.bitchute.com/video/dJAhewMLtQtu/)
 
 ##### "Alien" humanoid arrival
@@ -368,9 +392,7 @@ Source book: David Reich - Who We Are and How We Got Here
 #### Clinton's presidential archive
 [Clinton story](https://web.archive.org/web/20111106185024/http://www.presidentialufo.com/old_site/part3.htm)
 - because of Rockefeller initiative, all ufo documents are part of permanent open library content
-- contains a lot, but who put it there and why, and are they really "verified" now?
-- they are not there to be insulting certainly
-
+- contains a lot, but they aren't really "verified" yet (which IS a political statement still)
 
 ### Where we are now?
 [Secret anti-gravity squadron](https://www.youtube.com/watch?v=2KHVJiUwoYI)
@@ -381,55 +403,212 @@ Source book: David Reich - Who We Are and How We Got Here
 
 
 
+
+
 ## Chapter 8: Don't freak out, but...
 
-### Big Government IS the slavery
-- organized or managed behavior versus local self-organized decision making IS the final fight
-- they have monopoly of information, which they use to lie about carrots and punish those, who seem to be dangerous to them
-- their objective of them is to make your life a highly complex product, which you have no understanding of
-- they are doing all they can to resist you understanding of a scaling version of the society and patterns... instead they want to be a reactionary doll to their narrative
+### The Struggle Between Centralized and Decentralized Governance
+- The struggle between centralized and decentralized governance is the ultimate contest.
+- They possess a monopoly of information, which they leverage to deceive and suppress those who threaten their interests.
+- Their ultimate goal is to create a convoluted and incomprehensible system, taking away the power of understanding from individuals.
+- They strive to maintain a status quo which rejects the scaling of society and patterns, instead seeking to maintain a reactive posture.
 
-#### You are being bombarded with tested lies, which times time crack
-- only some very smart people can break free, because the amount of tested lies are so huge
-- growing people will fall to same disappointing lies without ability to warn others
-- it's not good, that systematic lying and "time stealing" scales in this ways
+[Source](https://www.youtube.com/watch?v=jviFsd4hhfE)
+
+### Deceitful Propaganda: Breaking Free of the Tested Lies that Steal Time
+- Intelligent people may be able to recognize and escape the seemingly endless stream of false information
+- Unsuspecting and unprepared individuals may fall prey to the same deceptive narratives, unable to warn others
+- The concerning rise of systemic untruths and the theft of precious time should not be taken lightly.
+[Blog](https://j3133.wordpress.com/2013/02/16/read-between-the-lies-dissecting-deceitful-propaganda/)
+
+### The Uphill Battle of Speaking Truth in a Society of Lies
+In a society that is so full of lies that it is difficult for outsiders to come and speak truthfully there, people would be so accustomed to the lies that they would struggle to accept the truth. They would be suspicious of any outsider who tried speaking truthfully, and the outsider would be met with hostility and resistance. The outsider would be labeled as a troublemaker, disruptive to the status quo, and would likely be ostracized or even persecuted for speaking the truth. If the outsider did manage to speak truthfully, it is likely that their words would be twisted and manipulated to fit the narrative of the society, thus undermining the truth-teller’s efforts. In such a society, speaking truthfully would be an uphill battle, and it would be almost impossible for an outsider to successfully challenge the lies and false narratives that have been ingrained in the culture.
 
 
-### Leaks everywhere
+Winning strategies for individual in such societies:
+
+1. Be patient and persistent. It will take time for people to come around to the truth, so be patient and continue to speak truthfully, even in the face of resistance.
+2. Take a collaborative approach. Talk to people in the society and try to understand their perspectives. Explain the truth in a way that people can understand and relate to.
+3. Find allies. Look for people who share similar values and perspectives, and work together to help spread the truth.
+4. Educate and inspire. Use creative tactics to educate people and inspire them to see the value of truth.
+5. Persevere. Don’t give up in the face of opposition. Continue to speak truthfully and stay committed to your cause.
+
+[Source](https://www.bitchute.com/video/AB43fKOdISgn/)
+
+### Leaks everywhere: Strategies for a Society with Unreliable Devices
+Living in a society where everyone uses devices that aren't reliable when it comes to privacy can be quite disconcerting. People would feel like their personal information, conversations, and other sensitive data are completely exposed for the world to see. Companies, governments, and other entities would be able to access this data without the knowledge or consent of the user. This would lead to a lack of trust in the devices, as well as in the companies that provide them. Furthermore, people would be hesitant to use the devices for fear of their information being collected and used against them. The lack of privacy could lead to an atmosphere of fear and paranoia, as people would feel like their every move was being monitored and their data was being shared. Ultimately, this could lead to a breakdown in the social fabric of the society, as people would be unwilling to trust one another.
+
+What's worse, people seem to become passive about the problem and create a culture where everything doesn't matter. People would be less inclined to follow the laws and regulations that are there to protect them and their data. This could lead to further issues, such as incorrect data being used for decision-making or malicious activity going unchecked. In short, having a society where everyone uses devices that aren't reliable when it comes to privacy can have serious consequences. It can lead to a breakdown in trust, an atmosphere of fear and paranoia, and a decrease in compliance with laws and regulations.
+
+Winning strategies for individual in such societies:
+
+1. Understand the Risks: It is important to be aware of the potential risks of using devices that are not reliable when it comes to privacy. Knowing the potential consequences of using such devices can help individuals make informed decisions about their own privacy and security.
+2. Use Encryption: Encryption is a powerful tool that can help protect data from being accessed by unauthorized parties. Encryption can be used to protect sensitive data and communications, as well as to safeguard user data from being intercepted.
+3. Limit Device Usage: Limiting the amount of data that is stored and shared on devices can help reduce the amount of data that is exposed. Individuals should also limit the number of devices they use, as each device can be a potential vulnerability.
+4. Be Mindful of Third-Party Apps: Third-party apps can be a potential source of privacy issues, as they can be used to collect and share sensitive information. Individuals should be mindful of the apps they are using and the permissions they are granting.
+5. Monitor Device Activity: Monitoring device activity can help individuals identify potential privacy issues. If suspicious activity is detected, individuals should take steps to protect their data from being accessed.
+
+[Source](https://www.brookings.edu/research/why-protecting-privacy-is-a-losing-game-today-and-how-to-change-the-game/)
 
 ### Goverment controls
+Snowden has leaked information about how a US secret project stores all people's communications and information in a secret database.
+Essentially:
+- government saves all Internet usage meta-data to separate database
+- filtered communications are probably stored too
+- data can be used as input to super AI training
+[Source](https://blokt.com/guides/edward-snowden-leaks#PRISM)
+
+#### Search results ar hacked
+The search results for "content of snowden leaks" only show official defenses of the USA, and no shown flaws. Future generations will no longer be able to learn how much evil is involved when the tech giants collaborate with the US government.
+
 #### Speculation of AI usage
+The government can use artificial intelligence to reveal everything about an individual.
+Conventional reasons why this is a bad thing:
+- Invasion of privacy: People’s private information can be accessed without their consent or knowledge.
+- Manipulation of data: The information that is collected can be manipulated and used to form false narratives.
+- Big Brother mentality: People may feel that their privacy is not respected or that they are being monitored.
+- Stifling of free speech: People may be less likely to express themselves online if they feel that their words could be used against them.
+- Data security: With all of this data being collected and stored, there is a potential for hackers to gain access to it and use it for malicious purposes.
+
+However, that's a small problem. Society and its attitudes can now be manipulated on a large scale, which reveals the following problems:
+- Manipulation of public opinion: Governments and corporations can influence people's opinions without their knowledge.
+- Arbitrary use of the tool by decision makers: The decisions made by decision makers can be based on biased information, which can lead to unfair or unjust decisions.
+- Unethical use of personal data: Personal data can be used to target specific individuals for marketing or other purposes without their knowledge or consent.
+- Unintended consequences: Because the technology is new and untested, there can be unintended consequences that are difficult to predict and manage.
+
 ##### for population analysing
+Details of possible use of population analysis by deep government:
+- Targeted surveillance: By analyzing data from internet searches and other sources, governments can identify individuals to target for surveillance.
+- Predictive policing: By analyzing population trends, governments can use predictive policing to anticipate and prevent crime.
+- Political manipulation: Governments can use population analysis to identify voting patterns and target their messaging to swing elections.
+- Manipulation of public opinion: Governments can use population analysis to identify the public’s opinion on certain topics and then craft messaging to influence their views.
+- Automated decision-making: Governments can use population analysis to automate decision-making in areas such as immigration, healthcare, and criminal justice.
+
 ##### for individual analysing
-##### AI can summarize your life in a second for a government official
-##### for individual manipulation
+- Surveillance of individuals: Governments can use individual analysis to identify targets for surveillance.
+- Tracking realtime life: Governments can track individuals in real time to monitor their activities and whereabouts.
+- Behavioral profiling: Governments can use individual analysis to profile behavior and identify patterns in order to predict future behavior.
+
 ##### for population manipulation
-#### Evidence of data gathering
-#### Where they go, whether we like it or not.
-- they seem to be going against transparency
-- might be "controlled backlash"
-- past leaks were a miracle, which might not occur again in digital age
+- Social engineering: Governments can use population analysis to craft messaging and use it to manipulate public opinion.
+- Targeted advertising: Governments can use population analysis to target individuals with specific ads in order to influence their decisions.
+- Misinformation campaigns: Governments can use population analysis to spread false information or manipulate public opinion.
+
+##### for individual manipulation
+- The government can send subliminal messages through advertisements and through various signaling similar to hacking, which can be used to manipulate emotions or opinions.
+- Manipulation of behaviour: Governments can use individual analysis to manipulate people’s behaviour and influence their decisions.
+- Exploitation of individual: Governments can use individual analysis to exploit individuals for political and other purposes without their knowledge.
+
+##### AI can summarize your life in a second for a government official
+A deep government AI can quickly analyze a person's life by taking into account their online presence, social media activities, browsing history, and other data points. This could give a government official a comprehensive overview of who a person is and what they do, allowing them to make decisions about them quickly and accurately. Furthermore, the AI can also generate insight into a person's behavior, allowing officials to make predictions about their future actions. In this way, AI can be used to quickly analyze a person's life and provide a summary to a government official in seconds.
+
+The misuse of AI to quickly analyze a person's life will lead to a number of troubling scenarios. For example, a government uses AI to quickly target individuals for surveillance or to spread misinformation. In addition, AI is used to manipulate public opinion by targeting individuals with specific ads or messages. Finally, AI is be used to exploit individuals for political and other purposes without their knowledge or consent. All of these scenarios present a major threat to individuals' independency, privacy, and freedom.
+
+#### Transparency in Politics: A Dream of the Past?
+- Government and political parties appear to be going against transparency.
+- This could be due to a "controlled backlash", as leaks in past decades were a miracle which might not occur again in the digital age.
+[Source](https://www.bitchute.com/video/E80X8UkxqwoL/)
 
 ### Infantilization
-#### generation after generation is more ignorant
-#### the development of technology, the decrease in the value of old skills
-#### Smart devices keep customers in the bubble, especially the Yankees' iProduct move
+
+The infantilization of our society is no accident. It is a carefully crafted plan by those in power to keep us in a state of perpetual childhood, unable to make decisions and take responsibility for our lives. From the way we dress and interact with each other, to the way we consume and spend our money, it is clear that the elites want us to remain in a childlike state.
+
+In a recent study, researchers from the University of Toronto and the University of Arizona examined how infantilization is changing our society. They found that trends in technology, consumerism, and media are creating a “culture of infantilization,” in which adults lose the skills and abilities needed to make important decisions and take responsibility for their lives.
+
+The researchers suggest that this is a deliberate ploy by the elites to control us. They point out that the way we dress and act is often more childlike than ever before, and that we’re becoming more dependent on technology to do tasks that we used to do ourselves. They also point out that our media consumption is increasingly more infantile, with an endless stream of memes and GIFs.
+
+[Source](https://www.bitchute.com/video/4oOgNAIasO0/)
+[Source](https://www.bitchute.com/video/08bVKEwcP8s/)
+[Source](https://www.bitchute.com/video/c1M8GYWe9yDW/)
 
 
+### Transhumanism
+The combination of transhumanism, transgender, and transsexual culture is a dangerous one that threatens to bring about a new form of tyranny. Transhumanism seeks to use technology, such as genetic engineering, robotics, and nanotechnology, to create a new species of human that is superior to those that currently exist.
 
+The combination of these three movements could create a world where those with superior physical abilities and capabilities are favored over those who are “normal.” This could lead to a society where those who are deemed “inferior” are discriminated against, and where everyone is judged based on their physical attributes rather than who they are as a person. It could also give rise to a totalitarian state in which the government has total control over its citizens and their lives.
 
+Furthermore, the potential risks associated with transhumanism, transgender, and transsexual culture are extreme. For example, the use of technology to enhance humans could lead to unforeseen side effects and health risks, as well as ethical and moral implications. Additionally, there could be implications for privacy and safety, as well as legal issues surrounding the control of individuals’ bodies.
 
-
-
+Ultimately, the combination of transhumanism, transgender, and transsexual culture could lead to a dystopian future in which those with superior physical attributes are favored over those who are “normal.” This could create a world where those who are deemed “inferior” are discriminated against, and where everyone is judged based on physical attributes rather than who they are as a person. There are also potential risks associated with this combination, such as health and safety concerns, as well as ethical and legal implications. Therefore, it is important to consider the potential risks and implications of this combination before embracing it.
+[Source](https://www.bitchute.com/video/ruOmUXicDOGn/)
 
 ## Chapter 9: Can we go now?
 
 ### Keeping network hot
+In today’s world, the web is hot. Everywhere you go, you can find secret messages hidden in plain sight. Whether it’s an email, an Instagram post, or a text message, these messages contain coded meaning that only a special someone can understand.
+
+List of examples of these messages:
+
+- 69
+- 420
+- 1+1=3
+- Coffee and a muffin
+
+Have you ever heard someone say something that meant more than the words themselves? Something that was code for something else? If so, you know the power of keeping the web hot.
+
+The web is a vast, interconnected network of people, ideas, and information. It's constantly changing and growing, and without some kind of “hot” element, it can become stale and boring. That’s where keeping the web hot comes in.
+
+Keeping the web hot involves using coded phrases, messages, and symbols to communicate information without actually speaking it aloud. These messages can be anything from the ubiquitous “420” associated with cannabis to the seemingly innocent “1+1=3.” Even something as simple as “coffee and a muffin” can be code for something else.
+
+The key to keeping the web hot is understanding the underlying meaning behind these messages and symbols. They may appear to be completely unrelated, but often times they are meant to convey something that the speaker may not even realize they’re conveying. It’s up to you to decipher the meaning and use it to your advantage
+
+Some of these coded messages are known as “subconscious messages.” They’re messages that the sender may not be aware of consciously, yet they still convey a powerful meaning to the receiver. Subconscious messages can be incredibly powerful; they can influence how others think and feel without the sender being aware.
+
+So how can you keep the web hot? Here are some tips:
+
+Listen for messages. Pay attention to the subtle messages that people send through their conversations and interactions. Are there any hidden meanings that you can pick up on?
+
+Send your own coded messages. Don’t be afraid to be creative and send your own coded messages. Think outside of the box and come up with clever ways to get your message across.
+
+Be open to receiving messages. Be open to receiving messages from other people. Keep an open mind and be willing to take in the messages that people are trying to send you.
+
+The web is always hot
+
 
 ### Avoiding obstacles
 
+As humans, we’re constantly looking for ways to reach our goals and make progress in life. But sometimes, obstacles can get in the way of our plans. Whether these obstacles are physical, mental, or emotional, they can impede our progress and cause us to feel frustrated and discouraged.
+
+Fortunately, there are strategies that can help us avoid obstacles and stay on the right path. Here are some tips on how to avoid obstacles:
+
+1. Know your goal: The first step in avoiding obstacles is to know your goal. Clearly define your goal and create a plan for achieving it. This will help you stay focused and on track.
+
+2. Identify potential obstacles: Once you’ve identified your goal, take some time to think about any potential obstacles that might stand in your way. Consider your own weaknesses and any external factors that could throw a wrench in your plans.
+
+3. Create a contingency plan: Once you’ve identified potential obstacles, create a contingency plan for each one. By having a plan in place for when things don’t go as expected, you can minimize the risk of being derailed by an obstacle.
+
+4. Stay focused: It’s easy to get distracted by shiny objects
+
+5. Keep a log: write everything
+
+
 ### Searching your way somewhere
+
+Have you ever set off on a journey, but had no idea where you were going? It can be a daunting experience, with no clear destination in sight. But if you look within yourself, you can find the courage to keep searching.
+
+The act of searching can be thought of as a metaphor for our lives. When we search for something, we are looking within ourselves and our surroundings for the answers we seek. We may not know what the answer looks like, but we keep searching until we find it.
+
+Searching can also represent our journey toward personal growth and understanding. We search within ourselves for the courage to take risks, to be open to new experiences, and to learn from our mistakes. We search around us for the support and guidance of those we trust and rely on.
+
+Searching can also be a way to discover our passion and purpose in life. We search for the things that make us excited, the things that make us feel alive. We search for the things that bring us joy, that give us a sense of purpose and meaning.
+
+Searching is a process of self-discovery. It’s about learning who we are and what we want out of life. We search for the things that make us unique, that make us stand out from the crowd. We search for the things that make us feel alive and connected to the world around us.
+
+Searching is a journey that never ends. We continue searching, learning, and growing throughout our lives. We search for the answers, the courage, and the passion that will lead us to our destination. We search for the things that will help us become the best version of ourselves.
+
+So when you find yourself at a crossroads and you don’t know where to go, don’t be afraid to keep searching. Search within yourself, search around you, and search for the things that will bring you joy. As long as you keep searching, you’ll eventually find your way somewhere.
 
 ### Happiness in everything
 
+Happiness is like a spark that can ignite in any moment and in any place. It is a light that illuminates the darkness and brings warmth to the cold. It is a feeling that is often sought after and yet, it can be found in the simplest of moments.
+
+We often think of happiness as something that must be found in the most extraordinary of circumstances; a luxurious vacation, a well-deserved promotion, or a perfect romantic relationship. But the truth is, happiness can be found in the everyday.
+
+It can be found in the mundane rituals of getting ready for work in the morning. It can be found in the laughter of children playing in the park. It can be found in the warmth of the sun on a beautiful spring day.
+
+Happiness is everywhere, if you look for it. It doesn’t need to be flashy or expensive. It doesn’t need to be complicated or over-the-top. It just needs to be noticed and appreciated.
+
+The key is to find joy in the little things. Appreciate the beauty of a sunset. Enjoy a cup of coffee with a friend. Take pleasure in a good book. Feel the warmth of a hug.
+
+Happiness is not a destination. It’s not something that you can find once and keep forever. It’s something that you have to search for every day. But if you open your eyes and your heart, you’ll find that it’s everywhere.
 
