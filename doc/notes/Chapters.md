@@ -233,7 +233,7 @@ Source book: David Reich - Who We Are and How We Got Here
 [Source page 303](https://chronologia.org/en/seven/4N12-EN-4.pdf)
 
 #### Russia vs USA tension is based on history falsification
-- It is very odd indeed that the American government had shown no interest in the neighbouring territories until the late 1700 – early 1800 century, when it did develop such an interest all of a sudden, and started a very rapid colonization. Could it be owing to the fact that the territory in question became “no man’s land” legally, and thus needed to be colonised as quickly as humanly possible.
+- "It is very odd indeed that the American government had shown no interest in the neighbouring territories until the late 1700 – early 1800 century, when it did develop such an interest all of a sudden, and started a very rapid colonization. Could it be owing to the fact that the territory in question became “no man’s land” legally, and thus needed to be colonised as quickly as humanly possible.""
 - resistance was real: "map depicts the Californian peninsula as an island, which means that the Horde had prohibited Europeans entry to this part of the world in the early XVIII – before the “revolt of Pougachev”."
 [Source page 306](https://chronologia.org/en/seven/4N12-EN-5.pdf)
 
@@ -252,57 +252,129 @@ Source book: David Reich - Who We Are and How We Got Here
 
 
 
-
 ## Chapter 7: Unbelieveable, but with friends topside
 
 ### Crop circles
+[Source](https://www.youtube.com/watch?v=KDqZvGJW4gk)
+
+#### They are pretty and worth seeing
+[Source](http://www.cropcircleconnector.com/interface2005.htm)
+
+#### Sometimes they are literally messages
+[Source](https://www.youtube.com/watch?v=5V2KuClix_k)
 
 #### History of crop circles
 
+##### Mowing-devil
+[Source](https://curiousrambler.com/the-mowing-devil-and-the-crop-circle/)
+
+##### Today I Found Out
+[Source](https://www.youtube.com/watch?v=axrXPkSnbGc)
+[Source](https://www.bitchute.com/video/PR4g8p6JNzzB/)
+
+#### From the enthusiast's perspective
+[Source](https://www.bitchute.com/video/ohkz1mzAQhsP/)
+[Source](https://www.bitchute.com/video/GDkz3llhnlZe/)
+
+#### Evidence
+[Source](https://www.bitchute.com/video/a36CtURK4Y4z/)
+[Source](https://www.bitchute.com/video/n4eYg3Ufs2jA/)
+[Source](https://www.bitchute.com/video/Yke2leKuHGkL/)
+
 #### Deception
+- part of derogatory vocabulary used by the public administration, including "conspiracy theorist", "aliens", etc.
+[Source](https://www.nzherald.co.nz/world/crop-circles-theyre-real-and-contain-hidden-messages-scientist-says/F4JKH7HQS6LF4ZWE4NJQLOAKJU/)
 
 #### Speculation
+[Source](https://www.bitchute.com/video/Ht73GBWgEQ8/)
+[Source](https://www.bitchute.com/video/dJAhewMLtQtu/)
+[Source](https://www.bitchute.com/video/dJAhewMLtQtu/)
 
+##### "Alien" humanoid arrival
+[Source](https://www.bitchute.com/video/03SkHiR31uo5/)
+[Source](https://www.bitchute.com/video/8xfWqAepKKH4/)
+[Source](https://www.bitchute.com/video/dQ2AuJyDJQLT/)
 
-### Crash landings
+### UFO activity and crash landings
 
-#### Evidence from presidential library
+### Leaked memos
+[Source](https://www.bitchute.com/video/bxB14rQ27Jqu/)
+
+#### Whistleblowers
+[Art Bell marathon 1](https://www.youtube.com/watch?v=5liCjmGGlWQ)
+[Art Bell marathon 2](https://www.youtube.com/watch?v=YMM3-Pz-DCc)
+[Source](https://www.bitchute.com/video/xMoqIdY0SKLT/)
+[Source](https://www.bitchute.com/video/0HjZWQjdOyCA/)
+
+#### Majic Eyes Only
+[Source](https://www.bitchute.com/video/smHo7L5LhZhc/)
 
 #### Speculation about humanoid races
-
+[Source](https://www.bitchute.com/video/700rMj4PeZwP/)
+[Confession](https://www.bitchute.com/video/7stHfrUMCT4/)
+[Part 1](https://www.bitchute.com/video/UbT3yriu5axX/)
+[Part 2](https://www.bitchute.com/video/CyNtzyHC0vjv/)
 
 ### Contacting them
-
-#### Channeling
-
-##### Just reading and interpreting the information
-
-#### Contacting with meditation
 [Video](https://www.youtube.com/watch?v=GFa0jxNDHTM)
 
+#### Getting contacted
+- government of Canada's official UFO research's chief researcher got contacted literally via telex machine
+[Wilbert Smith](https://www.bitchute.com/video/A84LEOGAajoM/)
+
+#### Channeling
+[Source](https://www.bitchute.com/video/3dOwCBvo9vXm/)
+[Source](https://www.bitchute.com/video/u2WI1zoOugCL/)
+[Source](https://www.bitchute.com/video/XAFLKYTpIEe2/)
+[Source](https://www.bitchute.com/video/jX0yZh1pc7yw/)
+[Source](https://www.bitchute.com/video/c1QAaCCp7Sbk/)
+
+##### Just watching, reading and interpreting the information
+[Video of channeling](https://www.youtube.com/watch?v=XvLFc7ANMIo)
+[Video of channeling](https://www.youtube.com/watch?v=LomZVazSuV8)
+
 #### Do you know when you're right or wrong?
+[Channeling guides](https://www.youtube.com/watch?v=feH8vMMS65g)
 
 
-### Goverment is interested
+### Flying black triangles
+[Source](https://www.bitchute.com/video/TtPu8tvs7T4y/)
+[Source](https://www.bitchute.com/video/nsSvZKGnCR78/)
+[Patents](https://www.bitchute.com/video/kbasSlLAzQUr/)
 
-#### MJ12
-#### MK
-#### SDI
-#### Flying black triangles
-#### Secret conferences about our tech
-#### Accusations about whitewashed reveng science
+### Secret conferences about our tech
+[Source](https://www.bitchute.com/video/j2gjXQvqYOUs/)
+[Source](https://www.bitchute.com/video/4gIiMtIyA2zR/)
 
-### Goverment lies
+### Accusations about whitewashed reveng science
+[Source](https://www.bitchute.com/video/Ia7CSW7YTvrn/)
+
+### Goverment is a mix of agendas
+
+#### Reasons why they don't disclose (so they lie)
+[Source](https://web.archive.org/web/20130208022514/http://www.presidentialufo.com/old_site/ufo_coverup.htm)
+
+#### They have tried to get the truth out
+[Source](https://web.archive.org/web/20130302085415/http://presidentialufo.com/component/content/article/39-articles-a-papers/491-qufos-area-51-and-government-informantsq)
+
+#### Area 51 was finally acknowledged in 2005
+[Source](https://web.archive.org/web/20151101010455/http://www.nbcnews.com/news/other/ufo-community-greets-area-51-disclosure-resounding-duh-f6C10936060)
+
 #### History of 60s, 70s, 80s until FOIA
+[Carter removed FOIA logjams](https://web.archive.org/web/20120911103401/http://www.presidentialufo.com/old_site/jimmy.htm)
+- "There were also embarrassing surprises found in FBI’s UFO files that were released during the Carter administration"
 
 ### Government transparency
 #### Clinton's presidential archive
+[Clinton story](https://web.archive.org/web/20111106185024/http://www.presidentialufo.com/old_site/part3.htm)
+- because of Rockefeller initiative, all ufo documents are part of permanent open library content
 - contains a lot, but who put it there and why, and are they really "verified" now?
 - they are not there to be insulting certainly
 
 
 ### Where we are now?
-
+[Secret anti-gravity squadron](https://www.youtube.com/watch?v=2KHVJiUwoYI)
+[Public Space Force](https://www.youtube.com/watch?v=5lEaLcumd08)
 
 
 
@@ -310,6 +382,18 @@ Source book: David Reich - Who We Are and How We Got Here
 
 
 ## Chapter 8: Don't freak out, but...
+
+### Big Government IS the slavery
+- organized or managed behavior versus local self-organized decision making IS the final fight
+- they have monopoly of information, which they use to lie about carrots and punish those, who seem to be dangerous to them
+- their objective of them is to make your life a highly complex product, which you have no understanding of
+- they are doing all they can to resist you understanding of a scaling version of the society and patterns... instead they want to be a reactionary doll to their narrative
+
+#### You are being bombarded with tested lies, which times time crack
+- only some very smart people can break free, because the amount of tested lies are so huge
+- growing people will fall to same disappointing lies without ability to warn others
+- it's not good, that systematic lying and "time stealing" scales in this ways
+
 
 ### Leaks everywhere
 
